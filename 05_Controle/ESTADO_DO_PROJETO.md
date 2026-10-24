@@ -29,7 +29,7 @@ UnB · Auditoria 1 (CCA0024) · Turma 02 · 2026.2 · Matrícula 231020069 · En
 | B10 501, 505, 560, 570 | **CONCLUÍDO** | 02_Planejamento: CPFL_B10_Litigios_Confirmacoes_Eventos_Continuidade.xlsx (0 erros) e minutas de confirmação NÃO ENVIADAS (PDF/DOCX); dossiê v0.7 (68 p.) |
 | B11 260, 265, 580; fechamento 450/500 | **CONCLUÍDO** | 02_Planejamento: CPFL_B11_Comunicacoes_Distorcoes_Evidencia.xlsx (0 erros) e minutas NÃO ENVIADAS (PDF/DOCX); dossiê v0.8 (77 p.) com os 27 PTs e a conclusão integrada |
 | B12 Revisão técnica | **CONCLUÍDO** (revisão automatizada, não independente) | 00_Controle: CPFL_B12_Revisao_Tecnica_Cobertura.xlsx (14 achados; matriz final: 29 de 33 obrigações atendidas, 4 pendentes do B13/aluno); dossiê v0.9 (79 p.) |
-| B13 Word/PDF/GitHub | **MONTAGEM CONCLUÍDA; publicação pendente (ação do aluno)** | Dossiê v1.0 (106 p.); pacote do repositório com README (testado em pasta limpa); conferência PDF × CVM (182 valores, 0 sem explicação) |
+| B13 Word/PDF/GitHub | **CONCLUÍDO — repositório publicado em 24/10/2026; falta o teste em janela anônima e a postagem do link (aluno)** | Dossiê v1.0 (106 p.); pacote do repositório com README (testado em pasta limpa); conferência PDF × CVM (182 valores, 0 sem explicação) |
 
 PTs redigidos: 27 de 27 + 6 programas por ciclo + conclusão integrada (seção 7). Nenhum procedimento futuro foi marcado como executado.
 
@@ -60,8 +60,8 @@ PTs redigidos: 27 de 27 + 6 programas por ciclo + conclusão integrada (seção 
 | Qui 22/10 | B01–B05 ✔ |
 | Sex 23/10 | B06 ✔; B07 ✔; B08 ✔; B09 ✔; B10 ✔ |
 | Sex 23/10 (noite) | B11 ✔; B12 ✔ |
-| Sáb 24/10 | B13 montagem ✔; publicação pelo aluno |
-| Dom 25/10 manhã | Publicação no GitHub pelo aluno e postagem do link |
+| Sáb 24/10 | B13 montagem ✔; publicação no GitHub ✔ |
+| Até Dom 25/10 | Teste em janela anônima e postagem do link pelo aluno |
 
 ## 6. Próximo passo
-Publicação do repositório no GitHub pelo aluno (guia passo a passo), conferência do acesso público e da base publicada (SHA-256), e postagem do link até 25/10/2026.
+Repositório publicado: https://github.com/CauaViictor21/CPFL-Auditoria1-231020069-Cau-Victor-Ara-jo-Pimentel (100 arquivos idênticos ao pacote; base com SHA-256 conferido). Falta: o aluno testar o acesso em janela anônima e postar o link na atividade até 25/10/2026.
