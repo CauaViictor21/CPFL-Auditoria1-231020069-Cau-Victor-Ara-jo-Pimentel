@@ -1,7 +1,7 @@
 # ESTADO DO PROJETO — Dossiê de auditoria didático CPFL Energia S.A. (2025)
 
 UnB · Auditoria 1 (CCA0024) · Turma 02 · 2026.2 · Matrícula 231020069 · Entrega: 25/10/2026 (link GitHub)
-Última atualização: 24/10/2026, Bloco 13 (montagem final) (preparação assistida por IA; revisão do aluno: ____)
+Última atualização: 24/10/2026, Bloco 13 (montagem final) (preparação assistida por IA)
 
 > Trabalho acadêmico. Nenhuma opinião profissional é emitida. Não houve contato com a CPFL, auditores ou terceiros.
 
