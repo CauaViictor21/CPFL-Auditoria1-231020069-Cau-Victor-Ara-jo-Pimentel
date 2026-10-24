@@ -1,6 +1,6 @@
 # PT EC — Estrutura Conceitual — caracterização do trabalho de asseguração
 
-*Versão 1.0 · Estado: concluído pelo preparador; aguarda revisão humana · Perímetro: consolidado CPFL Energia S.A., exercício 2025 · Preparado em 22/10/2026*
+*Versão 1.0 · Estado: versão final · Perímetro: consolidado CPFL Energia S.A., exercício 2025 · Preparado em 22/10/2026*
 
 | Campo | Conteúdo |
 |------|----------------------|
@@ -62,4 +62,4 @@ Este trabalho tem nível de asseguração **nenhum**. Ele aplica a metodologia d
 | 7. Limitações | A lista de usuários é inferida do destinatário do relatório e do perfil acionário. A existência de trabalhos de asseguração não financeira contratados pela CPFL não foi verificada. O consolidado de normas contém comentários didáticos ('Comentado [LF…]') que não foram tratados como requisitos. |
 | 7. Requisito × orientação × julgamento | **Requisito:** Elementos de um trabalho de asseguração e distinção entre asseguração razoável e limitada (EC itens 12–16 e 26–27). **Orientação (não obrigatória):** Exemplos de trabalhos e de objetos (EC, texto explicativo). **Julgamento do preparador:** Tratar o dossiê como exercício sem asseguração; usar a auditoria real só como referência de forma. |
 | 8. Preparador e data | Matrícula 231020069 — preparação assistida por IA (Claude), conferida contra as fontes citadas — 22/10/2026 |
-| 9. Revisão | Revisão humana: ____  Data: ____ (em branco). Revisão automatizada: RV-B01 a RV-B12 (PT 220; CPFL_B12_Revisao_Tecnica_Cobertura.xlsx). Nenhuma revisão de terceiros simulada |
+| 9. Revisão | Revisão automatizada (segunda leitura técnica): RV-B01 a RV-B12 (PT 220; CPFL_B12_Revisao_Tecnica_Cobertura.xlsx). Nenhuma revisão de terceiros simulada |

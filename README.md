@@ -12,7 +12,7 @@ Trabalho individual. Versão final **1.0**, de 24/10/2026.
 
 ## 1. Por onde começar
 
-1. Abra `01_Dossie/Dossie_CPFL_2025_231020069_v1.0.pdf`. É o documento integrado, com 106 páginas:
+1. Abra `01_Dossie/Dossie_CPFL_2025_231020069_v1.0.pdf`. É o documento integrado, com 105 páginas:
    - os 27 papéis de trabalho;
    - os 6 programas por ciclo e o programa de consolidação;
    - a conclusão integrada;
