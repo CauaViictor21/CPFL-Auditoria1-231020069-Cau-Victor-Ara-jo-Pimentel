@@ -1,0 +1,24 @@
+{
+ "congelado_em": "2026-10-23T19:55:39",
+ "declaracao": "Metodo, parametros, codigo, selecao, resultados e hashes congelados. Nenhum arquivo da pasta RESERVADO_NAO_ABRIR_ATE_CONGELAMENTO, gerador de erros ou gabarito foi lido pelos testes. A abertura dos reservados ocorre apos o registro deste arquivo no Drive.",
+ "base_sha256": "877d4a0256af842b859617f22c71678f30749e75b724c20cd205895ef85e4bb0",
+ "reservados_sha256_esperados": {
+  "referencia": "48652ae2da566026007a70915ef9112862ec0ecdd91a807c09e0f954e618fcfc",
+  "registro_erros": "45e3ec3eba8d27918689506dccfb68d19b8da4a6c7b7113e988a0bcde3a1bbb8",
+  "ponte": "7eabcc92f3d2e888fe90cba6e4992b06627d42260229359a29c2f57c4ebe3b32"
+ },
+ "arquivos_sha256": {
+  "B08_Desenho_pre_registro.md": "f5097cc6b7b3f27c086cc42d3ad450c3fec117f7650002eec36db4c884c3e8d4",
+  "parametros_b08.json": "72df419dbf2b66fef3948b83ac443afbf237f681c562fea71424f5922d9bc0df",
+  "testes_b08.py": "74af872f9599ce61651f4e0735415e5bb18bfe2e070d978d7914166b87d504b2",
+  "avaliacao_complementar_b08.py": "99a9944e3154f0c7a228f0eb349a44cce03608bd585259076541bf0f65ec82e4",
+  "saida_b08/MUS_amostra_resultados.csv": "f681a63763e1afb5a14b79f92fc49ba4988b47e32ca9781773b71dc425bf53be",
+  "saida_b08/MUS_ampliacao_residual.csv": "aa4fb53d279d77ac20d2587c5ddc7214a42bad582dbd70fa0fd9295381bafdbf",
+  "saida_b08/T1_duplicidades.csv": "5b44a25b9239a200c19e9c3476f2ad6afa1f1d629c79ca7e1dfcf809a6d0b0b6",
+  "saida_b08/T2_baixados_com_valor.csv": "f7c2c123f16a6499a233740349c163d815fdd57e335972dee562c86401ce3a51",
+  "saida_b08/T3_recalculo_divergente.csv": "e63489d299450916d50ae2e777ef220a3e7c652f2cdf8c34e49984c7cea26401",
+  "saida_b08/T4_residual_incoerente.csv": "a8e7dfda972250e68210fa6bf94823fe146ff20b46f0a4ce8a7aaaec5c6fc095",
+  "saida_b08/avaliacao_complementar_b08.json": "cc94c93f5c11c445d387525e2e3c12f92496129fc982ce1de8af60e2cd9f5fca",
+  "saida_b08/resultados_b08.json": "96f95d38187adff7b1ccde3f5183d825699c77cdb3cc4e8c85cae202add3ef65"
+ }
+}

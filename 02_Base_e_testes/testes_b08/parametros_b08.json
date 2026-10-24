@@ -1,0 +1,29 @@
+{
+  "versao": "1.0",
+  "data_definicao": "2026-10-23",
+  "base": "../base_v2/saida/CPFL_SINTETICA_Base_AFC_2025_registrada.csv.gz",
+  "base_sha256_esperado": "877d4a0256af842b859617f22c71678f30749e75b724c20cd205895ef85e4bb0",
+  "materialidade_execucao_rs": 303421730.00,
+  "materialidade_global_rs": 404562300.00,
+  "trivial_rs": 20228120.00,
+  "mus": {
+    "distorcao_toleravel_rs": 303421730.00,
+    "distorcao_toleravel_fundamento": "Igual a materialidade de execucao (NBC TA 530 A3; D-B04-01). Julgamento didatico.",
+    "risco_aceitacao_incorreta": 0.05,
+    "risco_fundamento": "Risco significativo R01, sem confianca em controles (nao testados): seguranca alta exigida do teste de detalhes. Julgamento didatico.",
+    "distorcao_esperada_rs": 45513259.50,
+    "distorcao_esperada_fundamento": "15% da distorcao toleravel: primeira auditoria (didatica), estimativa complexa nivel 3, cadastro de bens com historico setorial de baixas tardias. Julgamento didatico, definido antes de qualquer teste.",
+    "fator_expansao": 1.6,
+    "fator_expansao_fonte": "AICPA Audit Guide - Audit Sampling, tabela de fatores de expansao para 5% de risco (literatura, nao requisito normativo)",
+    "semente_ponto_inicial": 2310200698
+  },
+  "regras_teste_100": {
+    "T1_duplicidade": "id_bem_tecnico com mais de uma ocorrencia; o registro de id_registro maior de cada par e tratado como excedente (convencao documentada)",
+    "T2_baixado": "status_cadastral = BAIXADO com valor_registrado_rs > 0: distorcao = valor integral",
+    "T3_recalculo": "esperado = vnr x fator_atualizacao x fator_residual x k_d, com k_d = mediana de valor/(vnr x fator x residual) na distribuidora d (estimada pelo proprio teste); excecao se |valor/esperado - 1| > 1%",
+    "T3_limite": 0.01,
+    "T4_residual": "residual esperado = max(0,01; 1 - idade/vida util da categoria CADASTRADA), idade = (2025-12-31 - data_incorporacao)/365,25; excecao se |residual registrado - esperado| > 0,00015",
+    "T4_limite": 0.00015,
+    "vida_util_anos": {"Redes de distribuicao": 30, "Transformadores": 24, "Postes e estruturas": 36, "Medidores": 15, "Subestacoes": 42}
+  }
+}

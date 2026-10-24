@@ -1,0 +1,997 @@
+id_registro,categoria_cadastrada,data_incorporacao,residual_registrado,residual_esperado,categoria_coerente_sugerida,efeito_no_saldo_rs
+AFC-SIM-0001923,Transformadores,2016-01-07,0.7227,0.5841,Postes e estruturas,0.00
+AFC-SIM-0003684,Subestacoes,2007-04-05,0.4794,0.5538,Postes e estruturas,0.00
+AFC-SIM-0004238,Subestacoes,2025-06-16,0.9639,0.9871,Medidores,0.00
+AFC-SIM-0004569,Redes de distribuicao,2025-02-24,0.9434,0.9717,Medidores,0.00
+AFC-SIM-0005026,Postes e estruturas,2013-12-18,0.5988,0.6657,Redes de distribuicao,0.00
+AFC-SIM-0005246,Subestacoes,2018-08-16,0.5083,0.8244,Medidores,0.00
+AFC-SIM-0007285,Subestacoes,2025-11-27,0.9938,0.9978,Medidores,0.00
+AFC-SIM-0007612,Medidores,2025-03-22,0.9784,0.9482,Postes e estruturas,0.00
+AFC-SIM-0007820,Postes e estruturas,2011-10-21,0.0536,0.6057,Medidores,0.00
+AFC-SIM-0007971,Subestacoes,2004-03-02,0.0903,0.4802,Transformadores,0.00
+AFC-SIM-0010971,Postes e estruturas,2000-08-19,0.1545,0.2954,Redes de distribuicao,0.00
+AFC-SIM-0011504,Medidores,1999-05-17,0.1125,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0011554,Transformadores,2014-04-21,0.7215,0.5127,Subestacoes,0.00
+AFC-SIM-0011786,Redes de distribuicao,1993-02-08,0.2168,0.0100,Subestacoes,0.00
+AFC-SIM-0011851,Transformadores,2008-11-08,0.5238,0.2856,Postes e estruturas,0.00
+AFC-SIM-0013225,Medidores,2013-04-08,0.5756,0.1513,Redes de distribuicao,0.00
+AFC-SIM-0013664,Subestacoes,1991-12-03,0.0534,0.1886,Postes e estruturas,0.00
+AFC-SIM-0014207,Subestacoes,2024-09-09,0.9128,0.9688,Medidores,0.00
+AFC-SIM-0016153,Medidores,2003-12-23,0.0824,0.0100,Transformadores,0.00
+AFC-SIM-0016271,Medidores,2018-10-14,0.7996,0.5191,Postes e estruturas,0.00
+AFC-SIM-0016584,Medidores,2007-07-10,0.3841,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0016903,Redes de distribuicao,2019-04-17,0.5528,0.7764,Medidores,0.00
+AFC-SIM-0016906,Subestacoes,2013-03-08,0.1456,0.6949,Medidores,0.00
+AFC-SIM-0017579,Transformadores,1990-12-16,0.0266,0.0100,Postes e estruturas,0.00
+AFC-SIM-0018178,Subestacoes,2025-04-15,0.9802,0.9831,Postes e estruturas,0.00
+AFC-SIM-0018745,Subestacoes,2003-01-16,0.2348,0.4534,Redes de distribuicao,0.00
+AFC-SIM-0019799,Redes de distribuicao,2023-08-01,0.8388,0.9194,Medidores,0.00
+AFC-SIM-0019879,Medidores,2002-10-20,0.3556,0.0100,Postes e estruturas,0.00
+AFC-SIM-0020031,Postes e estruturas,2014-05-12,0.6120,0.6767,Redes de distribuicao,0.00
+AFC-SIM-0020327,Postes e estruturas,2017-11-21,0.4594,0.7747,Medidores,0.00
+AFC-SIM-0020866,Medidores,2020-10-28,0.8768,0.6550,Subestacoes,0.00
+AFC-SIM-0020932,Redes de distribuicao,2000-02-28,0.2822,0.1387,Postes e estruturas,0.00
+AFC-SIM-0021388,Postes e estruturas,2011-02-12,0.0100,0.5866,Medidores,0.00
+AFC-SIM-0021589,Postes e estruturas,2024-08-12,0.9423,0.9615,Transformadores,0.00
+AFC-SIM-0022481,Subestacoes,2015-02-26,0.6385,0.7418,Redes de distribuicao,0.00
+AFC-SIM-0023054,Medidores,2016-02-23,0.6715,0.3431,Redes de distribuicao,0.00
+AFC-SIM-0023257,Redes de distribuicao,2006-07-04,0.1878,0.3502,Transformadores,0.00
+AFC-SIM-0024623,Subestacoes,2013-09-27,0.1827,0.7081,Medidores,0.00
+AFC-SIM-0025517,Transformadores,2010-05-20,0.5662,0.3493,Postes e estruturas,0.00
+AFC-SIM-0026000,Medidores,1996-04-21,0.0102,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0026899,Transformadores,1997-06-07,0.2065,0.0100,Postes e estruturas,0.00
+AFC-SIM-0026942,Redes de distribuicao,1990-07-05,0.1550,0.0100,Subestacoes,0.00
+AFC-SIM-0027498,Medidores,2016-05-18,0.5991,0.3586,Transformadores,0.00
+AFC-SIM-0028491,Subestacoes,2012-06-16,0.0972,0.6776,Medidores,0.00
+AFC-SIM-0028820,Redes de distribuicao,2002-04-15,0.3413,0.2096,Postes e estruturas,0.00
+AFC-SIM-0028940,Transformadores,2013-12-24,0.6661,0.4992,Postes e estruturas,0.00
+AFC-SIM-0030250,Postes e estruturas,2021-09-19,0.7145,0.8811,Medidores,0.00
+AFC-SIM-0032838,Postes e estruturas,2022-10-12,0.7854,0.9106,Medidores,0.00
+AFC-SIM-0032934,Medidores,2002-02-02,0.2030,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0032971,Medidores,2013-06-09,0.4766,0.1626,Transformadores,0.00
+AFC-SIM-0033669,Medidores,2016-04-28,0.6775,0.3550,Redes de distribuicao,0.00
+AFC-SIM-0033688,Medidores,2001-03-17,0.1736,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0033837,Redes de distribuicao,1998-05-27,0.2334,0.0801,Postes e estruturas,0.00
+AFC-SIM-0034183,Transformadores,2012-02-27,0.0772,0.4232,Medidores,0.00
+AFC-SIM-0035042,Subestacoes,2013-06-28,0.6525,0.7022,Postes e estruturas,0.00
+AFC-SIM-0035469,Transformadores,2001-05-28,0.4144,0.0100,Subestacoes,0.00
+AFC-SIM-0035592,Medidores,2012-04-02,0.6181,0.0836,Postes e estruturas,0.00
+AFC-SIM-0035629,Postes e estruturas,2003-05-23,0.0580,0.3720,Transformadores,0.00
+AFC-SIM-0035867,Transformadores,2025-10-12,0.9927,0.9909,Redes de distribuicao,0.00
+AFC-SIM-0037133,Medidores,2001-03-19,0.3115,0.0100,Postes e estruturas,0.00
+AFC-SIM-0037160,Transformadores,2019-07-21,0.5702,0.7313,Medidores,0.00
+AFC-SIM-0037630,Medidores,2005-01-23,0.4184,0.0100,Postes e estruturas,0.00
+AFC-SIM-0037927,Redes de distribuicao,2021-03-21,0.6813,0.8407,Medidores,0.00
+AFC-SIM-0038602,Subestacoes,2008-01-02,0.5001,0.5715,Postes e estruturas,0.00
+AFC-SIM-0039281,Medidores,1999-06-13,0.2625,0.0100,Postes e estruturas,0.00
+AFC-SIM-0039431,Transformadores,2014-11-13,0.2579,0.5362,Medidores,0.00
+AFC-SIM-0039766,Medidores,2020-01-07,0.8006,0.6012,Redes de distribuicao,0.00
+AFC-SIM-0040201,Medidores,2011-08-27,0.6015,0.0436,Postes e estruturas,0.00
+AFC-SIM-0041180,Postes e estruturas,2001-11-25,0.1967,0.3306,Redes de distribuicao,0.00
+AFC-SIM-0041512,Postes e estruturas,2025-06-02,0.9807,0.9839,Redes de distribuicao,0.00
+AFC-SIM-0041552,Redes de distribuicao,2022-09-26,0.7824,0.8912,Medidores,0.00
+AFC-SIM-0041963,Redes de distribuicao,2016-11-26,0.7474,0.6968,Postes e estruturas,0.00
+AFC-SIM-0042170,Transformadores,2017-08-22,0.4428,0.6517,Medidores,0.00
+AFC-SIM-0042668,Redes de distribuicao,2007-11-17,0.4966,0.3959,Postes e estruturas,0.00
+AFC-SIM-0042814,Redes de distribuicao,1995-05-08,0.1486,0.0100,Postes e estruturas,0.00
+AFC-SIM-0043457,Postes e estruturas,1994-04-11,0.2447,0.1188,Subestacoes,0.00
+AFC-SIM-0043494,Subestacoes,2002-08-05,0.3498,0.4427,Postes e estruturas,0.00
+AFC-SIM-0043511,Medidores,2020-10-28,0.8563,0.6550,Postes e estruturas,0.00
+AFC-SIM-0044197,Subestacoes,2025-06-17,0.9820,0.9872,Redes de distribuicao,0.00
+AFC-SIM-0044425,Transformadores,2007-02-24,0.3717,0.2146,Redes de distribuicao,0.00
+AFC-SIM-0044933,Postes e estruturas,2002-11-04,0.2281,0.3568,Redes de distribuicao,0.00
+AFC-SIM-0044957,Postes e estruturas,2022-05-12,0.8787,0.8989,Redes de distribuicao,0.00
+AFC-SIM-0044967,Postes e estruturas,2025-09-06,0.9788,0.9912,Medidores,0.00
+AFC-SIM-0045057,Subestacoes,1997-12-10,0.0648,0.3320,Redes de distribuicao,0.00
+AFC-SIM-0045650,Transformadores,2017-11-27,0.4605,0.6628,Medidores,0.00
+AFC-SIM-0046090,Transformadores,2012-09-06,0.6301,0.4451,Postes e estruturas,0.00
+AFC-SIM-0046807,Subestacoes,2012-03-19,0.6171,0.6718,Postes e estruturas,0.00
+AFC-SIM-0048621,Subestacoes,2012-02-02,0.6136,0.6688,Postes e estruturas,0.00
+AFC-SIM-0049109,Postes e estruturas,2021-06-04,0.6950,0.8729,Medidores,0.00
+AFC-SIM-0049363,Redes de distribuicao,2015-02-12,0.2745,0.6372,Medidores,0.00
+AFC-SIM-0049870,Redes de distribuicao,2020-08-25,0.6433,0.8217,Medidores,0.00
+AFC-SIM-0050237,Redes de distribuicao,2011-09-04,0.6021,0.5225,Postes e estruturas,0.00
+AFC-SIM-0050242,Postes e estruturas,2005-06-28,0.3164,0.4303,Redes de distribuicao,0.00
+AFC-SIM-0051078,Subestacoes,2025-01-09,0.9675,0.9768,Redes de distribuicao,0.00
+AFC-SIM-0051743,Postes e estruturas,2011-04-09,0.5090,0.5908,Redes de distribuicao,0.00
+AFC-SIM-0051866,Subestacoes,2008-06-02,0.4140,0.5814,Redes de distribuicao,0.00
+AFC-SIM-0052682,Transformadores,2014-03-05,0.6058,0.5073,Redes de distribuicao,0.00
+AFC-SIM-0053239,Medidores,2021-11-03,0.8267,0.7227,Transformadores,0.00
+AFC-SIM-0054187,Medidores,2003-11-15,0.3854,0.0100,Postes e estruturas,0.00
+AFC-SIM-0055433,Transformadores,2016-04-12,0.3520,0.5950,Medidores,0.00
+AFC-SIM-0056265,Redes de distribuicao,2014-04-24,0.2208,0.6104,Medidores,0.00
+AFC-SIM-0057533,Redes de distribuicao,2012-04-27,0.6200,0.5441,Postes e estruturas,0.00
+AFC-SIM-0057554,Medidores,2023-11-12,0.9288,0.8576,Redes de distribuicao,0.00
+AFC-SIM-0057872,Transformadores,2004-10-22,0.2936,0.1170,Redes de distribuicao,0.00
+AFC-SIM-0058256,Subestacoes,2007-08-05,0.4887,0.5617,Postes e estruturas,0.00
+AFC-SIM-0058413,Subestacoes,2024-08-12,0.9076,0.9670,Medidores,0.00
+AFC-SIM-0058420,Subestacoes,2019-06-18,0.5641,0.8443,Medidores,0.00
+AFC-SIM-0059810,Postes e estruturas,1998-02-28,0.0721,0.2267,Redes de distribuicao,0.00
+AFC-SIM-0060761,Medidores,2004-01-15,0.0850,0.0100,Transformadores,0.00
+AFC-SIM-0060956,Subestacoes,2009-10-05,0.4587,0.6134,Redes de distribuicao,0.00
+AFC-SIM-0061079,Redes de distribuicao,2019-10-21,0.5869,0.7935,Medidores,0.00
+AFC-SIM-0061617,Redes de distribuicao,1999-05-27,0.2612,0.1134,Postes e estruturas,0.00
+AFC-SIM-0061678,Subestacoes,2002-12-17,0.0400,0.4515,Transformadores,0.00
+AFC-SIM-0061773,Redes de distribuicao,2022-09-18,0.8631,0.8905,Transformadores,0.00
+AFC-SIM-0061850,Transformadores,2022-12-22,0.7983,0.8739,Medidores,0.00
+AFC-SIM-0063524,Transformadores,2014-01-11,0.6010,0.5013,Redes de distribuicao,0.00
+AFC-SIM-0064820,Subestacoes,2024-01-28,0.9358,0.9542,Redes de distribuicao,0.00
+AFC-SIM-0064854,Redes de distribuicao,2023-01-17,0.9179,0.9015,Postes e estruturas,0.00
+AFC-SIM-0065597,Subestacoes,2022-08-04,0.8580,0.9188,Transformadores,0.00
+AFC-SIM-0066126,Subestacoes,2004-01-09,0.3895,0.4767,Postes e estruturas,0.00
+AFC-SIM-0066445,Subestacoes,2023-08-11,0.9004,0.9431,Transformadores,0.00
+AFC-SIM-0067072,Subestacoes,2024-10-03,0.9655,0.9704,Postes e estruturas,0.00
+AFC-SIM-0067679,Postes e estruturas,2004-09-26,0.2913,0.4094,Redes de distribuicao,0.00
+AFC-SIM-0068079,Postes e estruturas,2001-09-18,0.1905,0.3254,Redes de distribuicao,0.00
+AFC-SIM-0070003,Postes e estruturas,2014-03-11,0.6064,0.6720,Redes de distribuicao,0.00
+AFC-SIM-0070096,Postes e estruturas,2015-08-18,0.3086,0.7119,Medidores,0.00
+AFC-SIM-0070941,Transformadores,2002-04-17,0.3415,0.0122,Postes e estruturas,0.00
+AFC-SIM-0071188,Transformadores,2023-02-22,0.9048,0.8810,Redes de distribuicao,0.00
+AFC-SIM-0071547,Postes e estruturas,2001-04-05,0.1754,0.3128,Redes de distribuicao,0.00
+AFC-SIM-0071890,Redes de distribuicao,2018-11-27,0.5271,0.7635,Medidores,0.00
+AFC-SIM-0072129,Medidores,2020-01-27,0.8353,0.6048,Postes e estruturas,0.00
+AFC-SIM-0072313,Subestacoes,2018-04-09,0.7424,0.8160,Redes de distribuicao,0.00
+AFC-SIM-0072869,Transformadores,2019-01-07,0.5346,0.7091,Medidores,0.00
+AFC-SIM-0074709,Subestacoes,2020-10-09,0.7822,0.8756,Transformadores,0.00
+AFC-SIM-0075173,Subestacoes,2022-05-01,0.7554,0.9126,Medidores,0.00
+AFC-SIM-0075427,Redes de distribuicao,2013-01-17,0.6402,0.5682,Postes e estruturas,0.00
+AFC-SIM-0075576,Subestacoes,2021-10-11,0.7185,0.8995,Medidores,0.00
+AFC-SIM-0075786,Medidores,2021-05-05,0.8060,0.6895,Transformadores,0.00
+AFC-SIM-0076102,Transformadores,2020-04-12,0.8094,0.7617,Redes de distribuicao,0.00
+AFC-SIM-0076560,Medidores,1996-12-03,0.1923,0.0100,Postes e estruturas,0.00
+AFC-SIM-0077347,Redes de distribuicao,1990-10-10,0.0215,0.0100,Postes e estruturas,0.00
+AFC-SIM-0077427,Redes de distribuicao,2015-04-12,0.5533,0.6426,Transformadores,0.00
+AFC-SIM-0078073,Redes de distribuicao,2012-11-23,0.6360,0.5632,Postes e estruturas,0.00
+AFC-SIM-0078574,Redes de distribuicao,2017-01-21,0.6274,0.7019,Transformadores,0.00
+AFC-SIM-0078731,Transformadores,1988-12-01,0.1171,0.0100,Subestacoes,0.00
+AFC-SIM-0079705,Transformadores,2017-07-11,0.4351,0.6469,Medidores,0.00
+AFC-SIM-0079830,Transformadores,2015-07-18,0.3029,0.5643,Medidores,0.00
+AFC-SIM-0079923,Postes e estruturas,2011-12-27,0.4162,0.6108,Transformadores,0.00
+AFC-SIM-0080381,Medidores,2020-08-18,0.7763,0.6421,Transformadores,0.00
+AFC-SIM-0080787,Redes de distribuicao,2023-10-21,0.9085,0.9268,Transformadores,0.00
+AFC-SIM-0080824,Subestacoes,1998-04-27,0.0773,0.3410,Redes de distribuicao,0.00
+AFC-SIM-0080859,Medidores,2016-12-26,0.7496,0.3991,Postes e estruturas,0.00
+AFC-SIM-0081208,Subestacoes,2014-11-04,0.6901,0.7344,Postes e estruturas,0.00
+AFC-SIM-0081372,Transformadores,2018-02-08,0.7807,0.6711,Postes e estruturas,0.00
+AFC-SIM-0082139,Postes e estruturas,2003-12-28,0.0829,0.3886,Transformadores,0.00
+AFC-SIM-0082174,Subestacoes,2009-06-20,0.4490,0.6064,Redes de distribuicao,0.00
+AFC-SIM-0082277,Subestacoes,2024-09-16,0.9642,0.9693,Postes e estruturas,0.00
+AFC-SIM-0083525,Transformadores,2023-12-07,0.8622,0.9139,Medidores,0.00
+AFC-SIM-0083559,Transformadores,2000-07-24,0.1521,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0083635,Redes de distribuicao,2014-12-18,0.6934,0.6321,Postes e estruturas,0.00
+AFC-SIM-0083852,Medidores,2006-11-24,0.4694,0.0100,Postes e estruturas,0.00
+AFC-SIM-0084009,Subestacoes,2008-11-02,0.2850,0.5914,Transformadores,0.00
+AFC-SIM-0085230,Redes de distribuicao,2012-12-03,0.1283,0.5641,Medidores,0.00
+AFC-SIM-0085886,Redes de distribuicao,2025-09-01,0.9862,0.9890,Transformadores,0.00
+AFC-SIM-0086134,Subestacoes,1998-07-06,0.0837,0.3455,Redes de distribuicao,0.00
+AFC-SIM-0086335,Redes de distribuicao,1991-07-14,0.0426,0.0100,Postes e estruturas,0.00
+AFC-SIM-0086648,Subestacoes,2007-06-17,0.4850,0.5586,Postes e estruturas,0.00
+AFC-SIM-0086945,Postes e estruturas,2012-04-26,0.5440,0.6200,Redes de distribuicao,0.00
+AFC-SIM-0087036,Postes e estruturas,2007-03-06,0.2157,0.4771,Transformadores,0.00
+AFC-SIM-0087043,Postes e estruturas,2003-04-27,0.0550,0.3700,Transformadores,0.00
+AFC-SIM-0087044,Transformadores,2019-01-26,0.5380,0.7113,Medidores,0.00
+AFC-SIM-0087133,Redes de distribuicao,2003-08-26,0.3792,0.2550,Postes e estruturas,0.00
+AFC-SIM-0087789,Subestacoes,2005-12-24,0.3327,0.5234,Redes de distribuicao,0.00
+AFC-SIM-0088365,Subestacoes,2017-11-14,0.6613,0.8065,Transformadores,0.00
+AFC-SIM-0088844,Subestacoes,2024-01-20,0.8702,0.9537,Medidores,0.00
+AFC-SIM-0088876,Redes de distribuicao,1997-04-03,0.2015,0.0418,Postes e estruturas,0.00
+AFC-SIM-0089827,Medidores,2005-02-26,0.4210,0.0100,Postes e estruturas,0.00
+AFC-SIM-0090621,Subestacoes,2004-05-15,0.0988,0.4850,Transformadores,0.00
+AFC-SIM-0090647,Transformadores,2021-08-22,0.8789,0.8184,Postes e estruturas,0.00
+AFC-SIM-0090941,Medidores,2025-11-28,0.9975,0.9940,Postes e estruturas,0.00
+AFC-SIM-0091775,Transformadores,2022-04-05,0.9110,0.8442,Subestacoes,0.00
+AFC-SIM-0092507,Medidores,2013-11-26,0.5968,0.1936,Redes de distribuicao,0.00
+AFC-SIM-0092836,Postes e estruturas,2024-04-15,0.8859,0.9525,Medidores,0.00
+AFC-SIM-0093122,Redes de distribuicao,2018-08-21,0.5092,0.7546,Medidores,0.00
+AFC-SIM-0094414,Medidores,2021-07-14,0.8512,0.7023,Redes de distribuicao,0.00
+AFC-SIM-0094528,Subestacoes,2018-04-10,0.6781,0.8160,Transformadores,0.00
+AFC-SIM-0094801,Subestacoes,2025-12-25,0.9989,0.9996,Medidores,0.00
+AFC-SIM-0094947,Postes e estruturas,2011-08-14,0.0412,0.6005,Medidores,0.00
+AFC-SIM-0094964,Subestacoes,2002-12-14,0.2318,0.4513,Redes de distribuicao,0.00
+AFC-SIM-0095079,Medidores,2007-10-24,0.4948,0.0100,Postes e estruturas,0.00
+AFC-SIM-0095412,Postes e estruturas,2021-06-02,0.8091,0.8728,Transformadores,0.00
+AFC-SIM-0095873,Transformadores,2017-05-15,0.7603,0.6404,Postes e estruturas,0.00
+AFC-SIM-0096012,Transformadores,1994-06-14,0.1237,0.0100,Postes e estruturas,0.00
+AFC-SIM-0096076,Subestacoes,2017-10-20,0.4535,0.8048,Medidores,0.00
+AFC-SIM-0096967,Medidores,2001-02-09,0.1703,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0096973,Medidores,2010-03-02,0.4722,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0097194,Medidores,1999-01-10,0.1009,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0097886,Transformadores,1992-05-09,0.0654,0.0100,Postes e estruturas,0.00
+AFC-SIM-0098255,Postes e estruturas,2012-03-10,0.5397,0.6164,Redes de distribuicao,0.00
+AFC-SIM-0098547,Redes de distribuicao,2005-09-12,0.4361,0.3233,Postes e estruturas,0.00
+AFC-SIM-0098917,Redes de distribuicao,2003-06-10,0.3733,0.2480,Postes e estruturas,0.00
+AFC-SIM-0099450,Subestacoes,1997-11-16,0.2188,0.3304,Postes e estruturas,0.00
+AFC-SIM-0099496,Medidores,2007-06-08,0.4843,0.0100,Postes e estruturas,0.00
+AFC-SIM-0099746,Redes de distribuicao,2017-06-21,0.4314,0.7157,Medidores,0.00
+AFC-SIM-0100246,Transformadores,2017-11-18,0.4588,0.6618,Medidores,0.00
+AFC-SIM-0100719,Subestacoes,2014-09-13,0.6234,0.7310,Redes de distribuicao,0.00
+AFC-SIM-0100890,Medidores,1997-11-19,0.0628,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0101214,Medidores,2019-06-23,0.7825,0.5650,Redes de distribuicao,0.00
+AFC-SIM-0102224,Postes e estruturas,2012-09-27,0.1160,0.6317,Medidores,0.00
+AFC-SIM-0102357,Redes de distribuicao,1996-03-12,0.1721,0.0100,Postes e estruturas,0.00
+AFC-SIM-0103300,Postes e estruturas,2024-02-07,0.9368,0.9473,Redes de distribuicao,0.00
+AFC-SIM-0105029,Redes de distribuicao,2021-09-16,0.7140,0.8570,Medidores,0.00
+AFC-SIM-0105084,Redes de distribuicao,2002-02-18,0.0100,0.2045,Transformadores | Medidores,0.00
+AFC-SIM-0105221,Postes e estruturas,2010-04-02,0.3438,0.5626,Transformadores,0.00
+AFC-SIM-0105893,Medidores,2024-06-01,0.9341,0.8945,Transformadores,0.00
+AFC-SIM-0106124,Subestacoes,2003-10-17,0.2598,0.4713,Redes de distribuicao,0.00
+AFC-SIM-0106801,Subestacoes,2016-05-26,0.6000,0.7715,Transformadores,0.00
+AFC-SIM-0106809,Postes e estruturas,2023-08-23,0.9214,0.9345,Redes de distribuicao,0.00
+AFC-SIM-0106948,Medidores,2005-12-18,0.3321,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0107334,Subestacoes,2016-03-06,0.3453,0.7662,Medidores,0.00
+AFC-SIM-0107457,Redes de distribuicao,2000-10-10,0.2993,0.1592,Postes e estruturas,0.00
+AFC-SIM-0107674,Medidores,2014-10-27,0.6274,0.2548,Redes de distribuicao,0.00
+AFC-SIM-0107905,Medidores,2025-03-20,0.9739,0.9478,Redes de distribuicao,0.00
+AFC-SIM-0108428,Subestacoes,2014-02-02,0.6692,0.7164,Postes e estruturas,0.00
+AFC-SIM-0108528,Subestacoes,2024-01-09,0.8682,0.9529,Medidores,0.00
+AFC-SIM-0109731,Subestacoes,2013-08-24,0.4853,0.7059,Transformadores,0.00
+AFC-SIM-0110253,Transformadores,2025-01-04,0.9341,0.9588,Medidores,0.00
+AFC-SIM-0110441,Redes de distribuicao,2012-03-12,0.6165,0.5399,Postes e estruturas,0.00
+AFC-SIM-0110442,Transformadores,2025-03-20,0.9478,0.9674,Medidores,0.00
+AFC-SIM-0111337,Subestacoes,2022-11-23,0.9138,0.9261,Postes e estruturas,0.00
+AFC-SIM-0111377,Transformadores,2008-11-08,0.5238,0.2856,Postes e estruturas,0.00
+AFC-SIM-0112124,Transformadores,2023-11-20,0.9497,0.9119,Subestacoes,0.00
+AFC-SIM-0113105,Postes e estruturas,2002-11-18,0.0367,0.3578,Transformadores,0.00
+AFC-SIM-0113416,Transformadores,2008-11-21,0.4297,0.2871,Redes de distribuicao,0.00
+AFC-SIM-0113768,Transformadores,2001-01-05,0.3060,0.0100,Postes e estruturas,0.00
+AFC-SIM-0113800,Subestacoes,2024-01-20,0.8702,0.9537,Medidores,0.00
+AFC-SIM-0114340,Redes de distribuicao,2010-02-21,0.5595,0.4714,Postes e estruturas,0.00
+AFC-SIM-0115211,Subestacoes,2006-12-19,0.4713,0.5468,Postes e estruturas,0.00
+AFC-SIM-0116033,Subestacoes,2011-07-26,0.5991,0.6563,Postes e estruturas,0.00
+AFC-SIM-0117270,Medidores,2013-04-09,0.4697,0.1514,Transformadores,0.00
+AFC-SIM-0117643,Medidores,2012-09-07,0.5562,0.1124,Redes de distribuicao,0.00
+AFC-SIM-0118372,Medidores,1993-05-08,0.0931,0.0100,Postes e estruturas,0.00
+AFC-SIM-0121071,Subestacoes,2019-02-13,0.7133,0.8362,Transformadores,0.00
+AFC-SIM-0121271,Postes e estruturas,2017-08-07,0.7200,0.7667,Redes de distribuicao,0.00
+AFC-SIM-0121799,Subestacoes,1993-04-18,0.0916,0.2213,Postes e estruturas,0.00
+AFC-SIM-0121981,Transformadores,1993-09-26,0.1038,0.0100,Postes e estruturas,0.00
+AFC-SIM-0122647,Redes de distribuicao,2025-10-15,0.9941,0.9930,Postes e estruturas,0.00
+AFC-SIM-0124291,Redes de distribuicao,2022-01-07,0.8894,0.8673,Postes e estruturas,0.00
+AFC-SIM-0124437,Postes e estruturas,2018-08-11,0.5074,0.7947,Medidores,0.00
+AFC-SIM-0124443,Transformadores,2015-06-19,0.2977,0.5610,Medidores,0.00
+AFC-SIM-0124898,Medidores,1992-03-15,0.0612,0.0100,Postes e estruturas,0.00
+AFC-SIM-0126549,Subestacoes,1992-08-14,0.0728,0.2052,Postes e estruturas,0.00
+AFC-SIM-0127654,Transformadores,1992-10-11,0.0772,0.0100,Postes e estruturas,0.00
+AFC-SIM-0127992,Subestacoes,2004-07-24,0.2854,0.4896,Redes de distribuicao,0.00
+AFC-SIM-0128234,Redes de distribuicao,2021-06-26,0.8746,0.8495,Postes e estruturas,0.00
+AFC-SIM-0128434,Medidores,2022-03-12,0.8414,0.7463,Transformadores,0.00
+AFC-SIM-0128829,Transformadores,2021-07-08,0.8755,0.8133,Postes e estruturas,0.00
+AFC-SIM-0129294,Redes de distribuicao,2014-01-16,0.2029,0.6015,Medidores,0.00
+AFC-SIM-0129495,Transformadores,2013-10-20,0.1869,0.4918,Medidores,0.00
+AFC-SIM-0130646,Subestacoes,2019-11-05,0.8290,0.8535,Postes e estruturas,0.00
+AFC-SIM-0130687,Postes e estruturas,2019-08-20,0.5756,0.8232,Medidores,0.00
+AFC-SIM-0130694,Transformadores,2010-08-05,0.5721,0.3581,Postes e estruturas,0.00
+AFC-SIM-0131215,Subestacoes,2023-04-10,0.8182,0.9351,Medidores,0.00
+AFC-SIM-0131346,Redes de distribuicao,2014-11-02,0.2559,0.6279,Medidores,0.00
+AFC-SIM-0131777,Postes e estruturas,2017-12-04,0.4617,0.7757,Medidores,0.00
+AFC-SIM-0132846,Postes e estruturas,2011-07-19,0.0365,0.5985,Medidores,0.00
+AFC-SIM-0133209,Postes e estruturas,2024-01-24,0.8710,0.9462,Medidores,0.00
+AFC-SIM-0133237,Medidores,2010-09-22,0.3636,0.0100,Transformadores,0.00
+AFC-SIM-0133963,Transformadores,1999-01-01,0.1001,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0134316,Medidores,1994-08-21,0.1288,0.0100,Postes e estruturas,0.00
+AFC-SIM-0134458,Medidores,1997-01-22,0.3110,0.0100,Subestacoes,0.00
+AFC-SIM-0136192,Subestacoes,1995-09-14,0.1584,0.2786,Postes e estruturas,0.00
+AFC-SIM-0136279,Subestacoes,2013-04-21,0.5768,0.6977,Redes de distribuicao,0.00
+AFC-SIM-0137323,Subestacoes,2024-01-10,0.9342,0.9530,Redes de distribuicao,0.00
+AFC-SIM-0137378,Subestacoes,2011-11-15,0.6076,0.6636,Postes e estruturas,0.00
+AFC-SIM-0137960,Transformadores,2024-11-17,0.9733,0.9533,Subestacoes,0.00
+AFC-SIM-0138373,Redes de distribuicao,1995-05-17,0.1493,0.0100,Postes e estruturas,0.00
+AFC-SIM-0139103,Subestacoes,1990-12-07,0.0259,0.1651,Postes e estruturas,0.00
+AFC-SIM-0139625,Redes de distribuicao,1990-11-04,0.0234,0.0100,Postes e estruturas,0.00
+AFC-SIM-0139840,Redes de distribuicao,2011-04-23,0.5919,0.5103,Postes e estruturas,0.00
+AFC-SIM-0139891,Medidores,2020-11-27,0.8585,0.6605,Postes e estruturas,0.00
+AFC-SIM-0139987,Redes de distribuicao,2018-09-26,0.7982,0.7579,Postes e estruturas,0.00
+AFC-SIM-0141174,Redes de distribuicao,2001-01-24,0.3074,0.1689,Postes e estruturas,0.00
+AFC-SIM-0141631,Subestacoes,2003-02-26,0.0481,0.4561,Transformadores,0.00
+AFC-SIM-0141643,Postes e estruturas,2008-04-17,0.4098,0.5082,Redes de distribuicao,0.00
+AFC-SIM-0142792,Medidores,2021-07-20,0.8517,0.7034,Redes de distribuicao,0.00
+AFC-SIM-0142920,Subestacoes,2023-03-07,0.8825,0.9329,Transformadores,0.00
+AFC-SIM-0142993,Subestacoes,2007-04-26,0.4810,0.5552,Postes e estruturas,0.00
+AFC-SIM-0143689,Transformadores,2003-10-23,0.2603,0.0754,Redes de distribuicao,0.00
+AFC-SIM-0143967,Postes e estruturas,2014-07-17,0.2361,0.6817,Medidores,0.00
+AFC-SIM-0144270,Redes de distribuicao,2010-06-15,0.5682,0.4818,Postes e estruturas,0.00
+AFC-SIM-0145016,Medidores,2005-04-05,0.4239,0.0100,Postes e estruturas,0.00
+AFC-SIM-0145980,Medidores,2014-07-13,0.5221,0.2354,Transformadores,0.00
+AFC-SIM-0146083,Subestacoes,2010-09-10,0.4898,0.6355,Redes de distribuicao,0.00
+AFC-SIM-0146213,Subestacoes,2006-06-25,0.3494,0.5353,Redes de distribuicao,0.00
+AFC-SIM-0146459,Redes de distribuicao,2025-12-04,0.9951,0.9975,Medidores,0.00
+AFC-SIM-0147106,Transformadores,2010-09-20,0.4907,0.3633,Redes de distribuicao,0.00
+AFC-SIM-0147438,Subestacoes,2009-10-20,0.4601,0.6144,Redes de distribuicao,0.00
+AFC-SIM-0147733,Transformadores,2004-02-06,0.2700,0.0875,Redes de distribuicao,0.00
+AFC-SIM-0149212,Subestacoes,2009-02-05,0.4366,0.5976,Redes de distribuicao,0.00
+AFC-SIM-0149540,Transformadores,2013-11-18,0.6634,0.4951,Postes e estruturas,0.00
+AFC-SIM-0149738,Redes de distribuicao,2014-01-22,0.2040,0.6020,Medidores,0.00
+AFC-SIM-0150033,Subestacoes,2015-12-18,0.5818,0.7610,Transformadores,0.00
+AFC-SIM-0151181,Subestacoes,2022-05-19,0.8794,0.9138,Redes de distribuicao,0.00
+AFC-SIM-0151728,Subestacoes,2021-02-14,0.8646,0.8839,Postes e estruturas,0.00
+AFC-SIM-0152749,Medidores,2007-02-28,0.3720,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0153157,Subestacoes,2025-11-13,0.9912,0.9969,Medidores,0.00
+AFC-SIM-0153338,Transformadores,2004-07-08,0.2840,0.1050,Redes de distribuicao,0.00
+AFC-SIM-0153654,Transformadores,2024-05-11,0.9453,0.9317,Redes de distribuicao,0.00
+AFC-SIM-0153952,Redes de distribuicao,2012-08-13,0.1078,0.5539,Medidores,0.00
+AFC-SIM-0154561,Medidores,2022-07-02,0.9167,0.7667,Subestacoes,0.00
+AFC-SIM-0154608,Postes e estruturas,2022-02-08,0.7405,0.8919,Medidores,0.00
+AFC-SIM-0155401,Redes de distribuicao,2022-06-14,0.7634,0.8817,Medidores,0.00
+AFC-SIM-0155501,Redes de distribuicao,2019-04-10,0.5515,0.7758,Medidores,0.00
+AFC-SIM-0155628,Medidores,1994-09-17,0.1309,0.0100,Postes e estruturas,0.00
+AFC-SIM-0156305,Redes de distribuicao,2020-04-08,0.6180,0.8090,Medidores,0.00
+AFC-SIM-0156701,Redes de distribuicao,2022-09-24,0.7821,0.8910,Medidores,0.00
+AFC-SIM-0156717,Transformadores,2012-10-19,0.5600,0.4500,Redes de distribuicao,0.00
+AFC-SIM-0157292,Redes de distribuicao,2009-01-07,0.5283,0.4340,Postes e estruturas,0.00
+AFC-SIM-0157394,Transformadores,2001-07-16,0.3206,0.0100,Postes e estruturas,0.00
+AFC-SIM-0157861,Subestacoes,2016-12-25,0.3990,0.7853,Medidores,0.00
+AFC-SIM-0159110,Subestacoes,2016-08-25,0.6883,0.7774,Redes de distribuicao,0.00
+AFC-SIM-0159438,Postes e estruturas,2000-06-11,0.1482,0.2901,Redes de distribuicao,0.00
+AFC-SIM-0159674,Medidores,2007-02-12,0.3706,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0160015,Medidores,2012-10-06,0.6324,0.1177,Postes e estruturas,0.00
+AFC-SIM-0160629,Subestacoes,2025-08-22,0.9880,0.9915,Redes de distribuicao,0.00
+AFC-SIM-0160984,Transformadores,2020-10-13,0.6523,0.7827,Medidores,0.00
+AFC-SIM-0162721,Postes e estruturas,2022-08-11,0.8588,0.9058,Transformadores,0.00
+AFC-SIM-0163184,Redes de distribuicao,1994-11-19,0.1357,0.0100,Postes e estruturas,0.00
+AFC-SIM-0163981,Postes e estruturas,2024-11-05,0.9232,0.9680,Medidores,0.00
+AFC-SIM-0164601,Redes de distribuicao,2009-05-22,0.5386,0.4463,Postes e estruturas,0.00
+AFC-SIM-0165105,Transformadores,2000-01-14,0.2788,0.0100,Postes e estruturas,0.00
+AFC-SIM-0166205,Redes de distribuicao,2005-10-22,0.4391,0.3269,Postes e estruturas,0.00
+AFC-SIM-0166946,Transformadores,2019-03-04,0.5448,0.7155,Medidores,0.00
+AFC-SIM-0167090,Postes e estruturas,2010-08-08,0.3584,0.5723,Transformadores,0.00
+AFC-SIM-0167686,Medidores,1993-07-26,0.0991,0.0100,Postes e estruturas,0.00
+AFC-SIM-0167780,Subestacoes,2014-08-06,0.5249,0.7285,Transformadores,0.00
+AFC-SIM-0168462,Redes de distribuicao,2006-11-11,0.2026,0.3621,Transformadores,0.00
+AFC-SIM-0169157,Subestacoes,2000-10-27,0.3006,0.4005,Postes e estruturas,0.00
+AFC-SIM-0170031,Subestacoes,2015-10-07,0.5736,0.7563,Transformadores,0.00
+AFC-SIM-0170729,Redes de distribuicao,2025-05-21,0.9830,0.9796,Postes e estruturas,0.00
+AFC-SIM-0172369,Subestacoes,2018-08-20,0.6931,0.8246,Transformadores,0.00
+AFC-SIM-0172521,Redes de distribuicao,2017-09-28,0.7706,0.7248,Postes e estruturas,0.00
+AFC-SIM-0175702,Subestacoes,2009-10-28,0.4608,0.6149,Redes de distribuicao,0.00
+AFC-SIM-0175970,Medidores,2020-09-01,0.8223,0.6446,Redes de distribuicao,0.00
+AFC-SIM-0176352,Transformadores,2015-06-17,0.6486,0.5608,Redes de distribuicao,0.00
+AFC-SIM-0177012,Subestacoes,2016-11-11,0.6955,0.7825,Redes de distribuicao,0.00
+AFC-SIM-0177867,Subestacoes,2011-08-18,0.0419,0.6578,Medidores,0.00
+AFC-SIM-0177901,Medidores,1991-04-21,0.0362,0.0100,Postes e estruturas,0.00
+AFC-SIM-0178293,Redes de distribuicao,2016-10-12,0.3854,0.6927,Medidores,0.00
+AFC-SIM-0179752,Redes de distribuicao,2011-04-14,0.0189,0.5095,Medidores,0.00
+AFC-SIM-0180007,Subestacoes,2020-04-09,0.8409,0.8636,Postes e estruturas,0.00
+AFC-SIM-0180484,Postes e estruturas,2017-07-19,0.7183,0.7652,Redes de distribuicao,0.00
+AFC-SIM-0181047,Postes e estruturas,2023-05-21,0.9128,0.9274,Redes de distribuicao,0.00
+AFC-SIM-0181155,Transformadores,2011-10-25,0.6060,0.4090,Postes e estruturas,0.00
+AFC-SIM-0181248,Postes e estruturas,2005-12-27,0.1662,0.4441,Transformadores,0.00
+AFC-SIM-0182539,Medidores,2002-03-23,0.2075,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0183772,Subestacoes,2007-12-23,0.4994,0.5709,Postes e estruturas,0.00
+AFC-SIM-0184092,Subestacoes,2005-12-13,0.4431,0.5226,Postes e estruturas,0.00
+AFC-SIM-0184860,Medidores,1998-06-15,0.0818,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0186011,Transformadores,1996-09-21,0.0241,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0186016,Medidores,2022-09-07,0.9079,0.7790,Postes e estruturas,0.00
+AFC-SIM-0186232,Transformadores,1999-03-04,0.1057,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0186469,Postes e estruturas,2021-12-17,0.7308,0.8878,Medidores,0.00
+AFC-SIM-0187138,Postes e estruturas,2024-03-20,0.9257,0.9505,Transformadores,0.00
+AFC-SIM-0188488,Medidores,1995-05-21,0.1496,0.0100,Postes e estruturas,0.00
+AFC-SIM-0189940,Subestacoes,2009-12-04,0.3303,0.6173,Transformadores,0.00
+AFC-SIM-0191030,Subestacoes,1997-03-09,0.0396,0.3140,Redes de distribuicao,0.00
+AFC-SIM-0191398,Subestacoes,2016-04-09,0.3515,0.7684,Medidores,0.00
+AFC-SIM-0191569,Postes e estruturas,2015-05-26,0.2933,0.7055,Medidores,0.00
+AFC-SIM-0192306,Transformadores,2005-08-18,0.4342,0.1513,Postes e estruturas,0.00
+AFC-SIM-0192429,Redes de distribuicao,2023-10-23,0.8540,0.9270,Medidores,0.00
+AFC-SIM-0192555,Redes de distribuicao,2016-01-20,0.7632,0.6684,Subestacoes,0.00
+AFC-SIM-0193551,Medidores,2023-04-06,0.9087,0.8175,Redes de distribuicao,0.00
+AFC-SIM-0193597,Subestacoes,1994-12-23,0.1383,0.2614,Postes e estruturas,0.00
+AFC-SIM-0193879,Subestacoes,2014-05-23,0.6775,0.7236,Postes e estruturas,0.00
+AFC-SIM-0194275,Subestacoes,2021-07-28,0.8770,0.8946,Postes e estruturas,0.00
+AFC-SIM-0194788,Subestacoes,2023-05-17,0.8906,0.9375,Transformadores,0.00
+AFC-SIM-0195086,Transformadores,2017-09-01,0.7223,0.6529,Redes de distribuicao,0.00
+AFC-SIM-0195391,Medidores,2014-07-04,0.6807,0.2338,Postes e estruturas,0.00
+AFC-SIM-0196405,Transformadores,2024-08-21,0.9622,0.9433,Postes e estruturas,0.00
+AFC-SIM-0196599,Redes de distribuicao,2010-03-08,0.5607,0.4728,Postes e estruturas,0.00
+AFC-SIM-0196733,Redes de distribuicao,2025-08-18,0.9754,0.9877,Medidores,0.00
+AFC-SIM-0197376,Redes de distribuicao,2007-12-10,0.2475,0.3980,Transformadores,0.00
+AFC-SIM-0197893,Transformadores,2002-02-25,0.2051,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0199102,Transformadores,2011-10-04,0.0505,0.4066,Medidores,0.00
+AFC-SIM-0199366,Subestacoes,2025-05-09,0.9785,0.9846,Redes de distribuicao,0.00
+AFC-SIM-0199528,Transformadores,2018-02-27,0.7386,0.6733,Redes de distribuicao,0.00
+AFC-SIM-0200165,Redes de distribuicao,2014-12-14,0.2635,0.6318,Medidores,0.00
+AFC-SIM-0200986,Postes e estruturas,2022-02-11,0.7410,0.8921,Medidores,0.00
+AFC-SIM-0202023,Medidores,1993-12-03,0.1090,0.0100,Postes e estruturas,0.00
+AFC-SIM-0202400,Medidores,2024-04-20,0.9528,0.8868,Postes e estruturas,0.00
+AFC-SIM-0203991,Redes de distribuicao,2024-04-18,0.8865,0.9432,Medidores,0.00
+AFC-SIM-0204026,Medidores,1993-11-02,0.1066,0.0100,Postes e estruturas,0.00
+AFC-SIM-0204481,Postes e estruturas,2024-09-21,0.9149,0.9646,Medidores,0.00
+AFC-SIM-0205864,Postes e estruturas,2020-06-03,0.6282,0.8451,Medidores,0.00
+AFC-SIM-0206615,Transformadores,2019-11-18,0.8300,0.7450,Postes e estruturas,0.00
+AFC-SIM-0207529,Postes e estruturas,2019-10-17,0.5862,0.8276,Medidores,0.00
+AFC-SIM-0207928,Medidores,2021-02-04,0.7957,0.6731,Transformadores,0.00
+AFC-SIM-0209544,Redes de distribuicao,2012-11-08,0.4523,0.5619,Transformadores,0.00
+AFC-SIM-0210659,Transformadores,2025-12-22,0.9993,0.9990,Redes de distribuicao | Postes e estruturas | Subestacoes,0.00
+AFC-SIM-0211751,Redes de distribuicao,1995-12-19,0.1657,0.0100,Postes e estruturas,0.00
+AFC-SIM-0212181,Redes de distribuicao,2020-04-13,0.8412,0.8094,Postes e estruturas,0.00
+AFC-SIM-0212479,Postes e estruturas,2013-11-15,0.5958,0.6632,Redes de distribuicao,0.00
+AFC-SIM-0214533,Subestacoes,2007-02-04,0.2123,0.5499,Transformadores,0.00
+AFC-SIM-0214697,Subestacoes,2000-04-03,0.1419,0.3870,Redes de distribuicao,0.00
+AFC-SIM-0215895,Redes de distribuicao,2018-12-05,0.5285,0.7643,Medidores,0.00
+AFC-SIM-0216411,Subestacoes,2025-08-11,0.9838,0.9907,Transformadores,0.00
+AFC-SIM-0218453,Medidores,2021-06-23,0.8492,0.6985,Redes de distribuicao,0.00
+AFC-SIM-0219616,Postes e estruturas,2010-10-11,0.4926,0.5772,Redes de distribuicao,0.00
+AFC-SIM-0220128,Subestacoes,2012-07-16,0.1027,0.6795,Medidores,0.00
+AFC-SIM-0220511,Medidores,2012-05-20,0.5462,0.0923,Redes de distribuicao,0.00
+AFC-SIM-0220554,Postes e estruturas,2025-01-13,0.9679,0.9732,Redes de distribuicao,0.00
+AFC-SIM-0221073,Postes e estruturas,2022-10-15,0.8930,0.9108,Redes de distribuicao,0.00
+AFC-SIM-0221081,Redes de distribuicao,2018-07-24,0.5041,0.7520,Medidores,0.00
+AFC-SIM-0221920,Medidores,1996-12-17,0.0321,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0222159,Transformadores,2003-08-16,0.2541,0.0676,Redes de distribuicao,0.00
+AFC-SIM-0222282,Medidores,2002-08-24,0.2215,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0223124,Subestacoes,2006-05-09,0.1814,0.5322,Transformadores,0.00
+AFC-SIM-0223151,Medidores,2015-04-22,0.7029,0.2871,Postes e estruturas,0.00
+AFC-SIM-0223587,Subestacoes,2012-02-14,0.5374,0.6696,Redes de distribuicao,0.00
+AFC-SIM-0224871,Redes de distribuicao,2016-09-26,0.3825,0.6913,Medidores,0.00
+AFC-SIM-0225226,Postes e estruturas,2017-12-11,0.6644,0.7763,Transformadores,0.00
+AFC-SIM-0225522,Transformadores,2018-08-17,0.5085,0.6928,Medidores,0.00
+AFC-SIM-0225761,Medidores,2016-04-16,0.7688,0.3528,Subestacoes,0.00
+AFC-SIM-0227676,Transformadores,1999-02-24,0.2542,0.0100,Postes e estruturas,0.00
+AFC-SIM-0228344,Transformadores,2006-05-18,0.4549,0.1824,Postes e estruturas,0.00
+AFC-SIM-0229072,Transformadores,1995-11-09,0.1627,0.0100,Postes e estruturas,0.00
+AFC-SIM-0229505,Medidores,2025-12-24,0.9994,0.9987,Redes de distribuicao | Postes e estruturas | Subestacoes,0.00
+AFC-SIM-0229665,Subestacoes,2017-05-23,0.7609,0.7951,Postes e estruturas,0.00
+AFC-SIM-0230647,Postes e estruturas,2015-09-04,0.3117,0.7132,Medidores,0.00
+AFC-SIM-0231020,Redes de distribuicao,2007-06-22,0.4854,0.3824,Postes e estruturas,0.00
+AFC-SIM-0231272,Subestacoes,2010-03-09,0.3411,0.6235,Transformadores,0.00
+AFC-SIM-0232118,Subestacoes,2019-11-19,0.8301,0.8544,Postes e estruturas,0.00
+AFC-SIM-0232660,Medidores,2024-10-09,0.9591,0.9182,Redes de distribuicao,0.00
+AFC-SIM-0232791,Postes e estruturas,2025-05-25,0.9598,0.9833,Medidores,0.00
+AFC-SIM-0232870,Subestacoes,2013-09-03,0.1783,0.7065,Medidores,0.00
+AFC-SIM-0232949,Medidores,2022-08-28,0.8607,0.7771,Transformadores,0.00
+AFC-SIM-0233495,Transformadores,2007-08-11,0.3870,0.2337,Redes de distribuicao,0.00
+AFC-SIM-0233543,Medidores,2020-05-15,0.8124,0.6247,Redes de distribuicao,0.00
+AFC-SIM-0233881,Medidores,2018-08-05,0.7531,0.5063,Redes de distribuicao,0.00
+AFC-SIM-0234479,Postes e estruturas,2018-11-18,0.5254,0.8023,Medidores,0.00
+AFC-SIM-0234880,Redes de distribuicao,2012-06-13,0.4354,0.5483,Transformadores,0.00
+AFC-SIM-0235462,Redes de distribuicao,2018-03-20,0.6757,0.7405,Transformadores,0.00
+AFC-SIM-0235527,Medidores,2004-02-07,0.2701,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0235611,Transformadores,2019-12-25,0.5988,0.7493,Medidores,0.00
+AFC-SIM-0235960,Postes e estruturas,1996-03-25,0.0100,0.1731,Redes de distribuicao | Transformadores | Medidores,0.00
+AFC-SIM-0237755,Transformadores,2012-01-23,0.0708,0.4192,Medidores,0.00
+AFC-SIM-0237806,Medidores,2008-08-16,0.2761,0.0100,Transformadores,0.00
+AFC-SIM-0238060,Postes e estruturas,2015-08-12,0.6538,0.7115,Redes de distribuicao,0.00
+AFC-SIM-0238364,Redes de distribuicao,2020-01-02,0.7502,0.8001,Transformadores,0.00
+AFC-SIM-0238425,Medidores,2007-08-20,0.3878,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0238995,Subestacoes,2015-08-23,0.5684,0.7534,Transformadores,0.00
+AFC-SIM-0239171,Subestacoes,2017-06-07,0.6431,0.7960,Transformadores,0.00
+AFC-SIM-0240941,Medidores,2014-12-17,0.5400,0.2641,Transformadores,0.00
+AFC-SIM-0240978,Postes e estruturas,2005-11-01,0.3279,0.4399,Redes de distribuicao,0.00
+AFC-SIM-0241387,Redes de distribuicao,2016-11-16,0.7466,0.6959,Postes e estruturas,0.00
+AFC-SIM-0241621,Subestacoes,2016-06-19,0.3645,0.7730,Medidores,0.00
+AFC-SIM-0241797,Postes e estruturas,2025-07-13,0.9688,0.9870,Medidores,0.00
+AFC-SIM-0243213,Redes de distribuicao,2012-07-22,0.4399,0.5519,Transformadores,0.00
+AFC-SIM-0243247,Redes de distribuicao,2021-03-12,0.6797,0.8398,Medidores,0.00
+AFC-SIM-0243985,Postes e estruturas,2024-04-03,0.9273,0.9516,Transformadores,0.00
+AFC-SIM-0244835,Transformadores,2023-11-24,0.8598,0.9124,Medidores,0.00
+AFC-SIM-0248449,Postes e estruturas,2023-07-05,0.9170,0.9308,Redes de distribuicao,0.00
+AFC-SIM-0249526,Subestacoes,2017-03-20,0.7560,0.7909,Postes e estruturas,0.00
+AFC-SIM-0250144,Postes e estruturas,2000-08-10,0.1536,0.2947,Redes de distribuicao,0.00
+AFC-SIM-0250296,Postes e estruturas,2011-03-18,0.5070,0.5892,Redes de distribuicao,0.00
+AFC-SIM-0250664,Medidores,2002-03-24,0.4340,0.0100,Subestacoes,0.00
+AFC-SIM-0250742,Medidores,2021-11-09,0.8274,0.7238,Transformadores,0.00
+AFC-SIM-0250880,Postes e estruturas,2025-09-02,0.9890,0.9909,Redes de distribuicao,0.00
+AFC-SIM-0252093,Medidores,2024-04-04,0.9420,0.8839,Redes de distribuicao,0.00
+AFC-SIM-0253949,Medidores,2008-09-05,0.2783,0.0100,Transformadores,0.00
+AFC-SIM-0254128,Subestacoes,2006-04-19,0.4527,0.5309,Postes e estruturas,0.00
+AFC-SIM-0254529,Redes de distribuicao,2013-09-19,0.1812,0.5906,Medidores,0.00
+AFC-SIM-0254829,Medidores,2009-08-02,0.4529,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0254886,Subestacoes,2011-11-15,0.0582,0.6636,Medidores,0.00
+AFC-SIM-0256633,Postes e estruturas,2002-06-03,0.2141,0.3450,Redes de distribuicao,0.00
+AFC-SIM-0256674,Transformadores,2023-02-12,0.9039,0.8799,Redes de distribuicao,0.00
+AFC-SIM-0257082,Postes e estruturas,2004-06-17,0.1026,0.4017,Transformadores,0.00
+AFC-SIM-0257178,Medidores,2000-03-17,0.2836,0.0100,Postes e estruturas,0.00
+AFC-SIM-0257973,Redes de distribuicao,2020-02-16,0.8369,0.8042,Postes e estruturas,0.00
+AFC-SIM-0258048,Transformadores,2019-01-05,0.8059,0.7089,Postes e estruturas,0.00
+AFC-SIM-0258969,Postes e estruturas,2012-09-19,0.1146,0.6311,Medidores,0.00
+AFC-SIM-0260092,Postes e estruturas,2020-04-04,0.6172,0.8405,Medidores,0.00
+AFC-SIM-0260560,Postes e estruturas,2024-01-10,0.8684,0.9452,Medidores,0.00
+AFC-SIM-0260677,Medidores,2011-07-11,0.5979,0.0350,Postes e estruturas,0.00
+AFC-SIM-0261258,Postes e estruturas,2023-12-25,0.9159,0.9440,Transformadores,0.00
+AFC-SIM-0262098,Redes de distribuicao,2024-10-06,0.9177,0.9588,Medidores,0.00
+AFC-SIM-0262200,Medidores,1995-08-28,0.1571,0.0100,Postes e estruturas,0.00
+AFC-SIM-0262527,Subestacoes,2014-10-15,0.6886,0.7331,Postes e estruturas,0.00
+AFC-SIM-0263325,Redes de distribuicao,2025-06-08,0.9624,0.9812,Medidores,0.00
+AFC-SIM-0263528,Transformadores,2023-10-27,0.9274,0.9092,Redes de distribuicao,0.00
+AFC-SIM-0263815,Transformadores,2013-10-03,0.1838,0.4898,Medidores,0.00
+AFC-SIM-0265130,Subestacoes,2024-02-01,0.8724,0.9544,Medidores,0.00
+AFC-SIM-0265479,Medidores,2011-09-21,0.5241,0.0481,Redes de distribuicao,0.00
+AFC-SIM-0266083,Subestacoes,2023-04-04,0.8171,0.9347,Medidores,0.00
+AFC-SIM-0267816,Transformadores,2011-02-28,0.0107,0.3817,Medidores,0.00
+AFC-SIM-0268526,Postes e estruturas,2012-09-04,0.1118,0.6299,Medidores,0.00
+AFC-SIM-0269201,Transformadores,1995-12-18,0.1656,0.0100,Postes e estruturas,0.00
+AFC-SIM-0270469,Transformadores,2020-02-26,0.6103,0.7564,Medidores,0.00
+AFC-SIM-0272209,Postes e estruturas,2018-07-22,0.6898,0.7932,Transformadores,0.00
+AFC-SIM-0272651,Medidores,1999-03-23,0.2562,0.0100,Postes e estruturas,0.00
+AFC-SIM-0272692,Medidores,2011-10-26,0.6061,0.0545,Postes e estruturas,0.00
+AFC-SIM-0273913,Transformadores,1997-03-12,0.0398,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0274166,Medidores,2024-08-23,0.9435,0.9097,Transformadores,0.00
+AFC-SIM-0274312,Redes de distribuicao,1991-03-16,0.0335,0.0100,Postes e estruturas,0.00
+AFC-SIM-0274784,Postes e estruturas,2012-10-01,0.1168,0.6320,Medidores,0.00
+AFC-SIM-0274900,Medidores,2021-10-20,0.8251,0.7202,Transformadores,0.00
+AFC-SIM-0275341,Transformadores,2018-06-26,0.7495,0.6869,Redes de distribuicao,0.00
+AFC-SIM-0275507,Transformadores,2024-07-28,0.9049,0.9406,Medidores,0.00
+AFC-SIM-0275586,Medidores,2005-08-24,0.1520,0.0100,Transformadores,0.00
+AFC-SIM-0275623,Subestacoes,2025-01-02,0.9337,0.9763,Medidores,0.00
+AFC-SIM-0277405,Postes e estruturas,2024-05-25,0.9466,0.9555,Redes de distribuicao,0.00
+AFC-SIM-0277963,Transformadores,1995-01-07,0.1394,0.0100,Postes e estruturas,0.00
+AFC-SIM-0278323,Transformadores,2025-05-20,0.9829,0.9743,Postes e estruturas,0.00
+AFC-SIM-0279130,Postes e estruturas,2014-05-24,0.6131,0.6776,Redes de distribuicao,0.00
+AFC-SIM-0279513,Redes de distribuicao,2006-09-03,0.5398,0.3558,Subestacoes,0.00
+AFC-SIM-0279530,Postes e estruturas,2015-11-20,0.5786,0.7191,Transformadores,0.00
+AFC-SIM-0279933,Transformadores,1993-10-21,0.1057,0.0100,Postes e estruturas,0.00
+AFC-SIM-0280130,Subestacoes,2003-09-07,0.2561,0.4687,Redes de distribuicao,0.00
+AFC-SIM-0280473,Medidores,2006-02-26,0.4488,0.0100,Postes e estruturas,0.00
+AFC-SIM-0281019,Redes de distribuicao,2023-10-20,0.9084,0.9267,Transformadores,0.00
+AFC-SIM-0281123,Transformadores,2012-10-23,0.6337,0.4505,Postes e estruturas,0.00
+AFC-SIM-0281325,Redes de distribuicao,2009-04-16,0.5359,0.4430,Postes e estruturas,0.00
+AFC-SIM-0281746,Postes e estruturas,2003-09-21,0.4696,0.3812,Subestacoes,0.00
+AFC-SIM-0281769,Redes de distribuicao,2017-06-14,0.4302,0.7151,Medidores,0.00
+AFC-SIM-0281825,Postes e estruturas,2013-10-28,0.1883,0.6618,Medidores,0.00
+AFC-SIM-0281843,Postes e estruturas,2019-06-13,0.7270,0.8180,Transformadores,0.00
+AFC-SIM-0283873,Subestacoes,2012-03-06,0.0786,0.6709,Medidores,0.00
+AFC-SIM-0284232,Postes e estruturas,2013-08-04,0.4830,0.6553,Transformadores,0.00
+AFC-SIM-0284496,Subestacoes,2018-09-24,0.5154,0.8269,Medidores,0.00
+AFC-SIM-0285146,Redes de distribuicao,2020-10-23,0.8559,0.8271,Postes e estruturas,0.00
+AFC-SIM-0285730,Subestacoes,1993-03-06,0.0883,0.2185,Postes e estruturas,0.00
+AFC-SIM-0286040,Postes e estruturas,1999-03-15,0.1067,0.2556,Redes de distribuicao,0.00
+AFC-SIM-0286406,Medidores,2017-04-04,0.7572,0.4172,Postes e estruturas,0.00
+AFC-SIM-0287770,Medidores,2013-04-09,0.6464,0.1514,Postes e estruturas,0.00
+AFC-SIM-0288409,Postes e estruturas,2024-02-13,0.9373,0.9478,Redes de distribuicao,0.00
+AFC-SIM-0289000,Transformadores,2013-09-16,0.1807,0.4879,Medidores,0.00
+AFC-SIM-0289117,Redes de distribuicao,2018-11-08,0.7023,0.7618,Transformadores,0.00
+AFC-SIM-0289179,Redes de distribuicao,2008-12-28,0.2914,0.4331,Transformadores,0.00
+AFC-SIM-0289355,Postes e estruturas,2010-09-10,0.4898,0.5748,Redes de distribuicao,0.00
+AFC-SIM-0290092,Subestacoes,2009-01-07,0.4340,0.5957,Redes de distribuicao,0.00
+AFC-SIM-0290260,Medidores,2007-07-21,0.3851,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0290487,Postes e estruturas,2016-07-24,0.6854,0.7379,Redes de distribuicao,0.00
+AFC-SIM-0290568,Medidores,2025-06-27,0.9858,0.9659,Postes e estruturas,0.00
+AFC-SIM-0290989,Medidores,2005-10-26,0.3273,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0291015,Redes de distribuicao,2012-03-21,0.0814,0.5407,Medidores,0.00
+AFC-SIM-0291150,Medidores,2023-04-10,0.9091,0.8182,Redes de distribuicao,0.00
+AFC-SIM-0291167,Subestacoes,2007-09-17,0.3904,0.5646,Redes de distribuicao,0.00
+AFC-SIM-0291585,Postes e estruturas,2014-12-25,0.2655,0.6940,Medidores,0.00
+AFC-SIM-0291848,Subestacoes,2012-04-12,0.5427,0.6733,Redes de distribuicao,0.00
+AFC-SIM-0291887,Redes de distribuicao,2017-10-19,0.7722,0.7267,Postes e estruturas,0.00
+AFC-SIM-0292048,Medidores,1985-12-28,0.0474,0.0100,Subestacoes,0.00
+AFC-SIM-0292272,Medidores,2012-05-18,0.4325,0.0919,Transformadores,0.00
+AFC-SIM-0292956,Subestacoes,2021-04-12,0.8427,0.8876,Redes de distribuicao,0.00
+AFC-SIM-0294049,Medidores,2024-08-08,0.9612,0.9069,Postes e estruturas,0.00
+AFC-SIM-0294522,Medidores,2015-04-08,0.6423,0.2845,Redes de distribuicao,0.00
+AFC-SIM-0294686,Transformadores,2012-07-23,0.1040,0.4400,Medidores,0.00
+AFC-SIM-0295132,Transformadores,2022-07-24,0.7708,0.8567,Medidores,0.00
+AFC-SIM-0295566,Transformadores,2025-12-28,0.9995,0.9997,Medidores,0.00
+AFC-SIM-0295710,Subestacoes,2005-03-01,0.4212,0.5039,Postes e estruturas,0.00
+AFC-SIM-0295735,Redes de distribuicao,2017-01-19,0.4035,0.7018,Medidores,0.00
+AFC-SIM-0296232,Medidores,2013-01-07,0.4592,0.1347,Transformadores,0.00
+AFC-SIM-0297102,Postes e estruturas,2015-03-20,0.2810,0.7004,Medidores,0.00
+AFC-SIM-0297163,Transformadores,1999-08-07,0.3714,0.0100,Subestacoes,0.00
+AFC-SIM-0297525,Postes e estruturas,2002-08-08,0.0251,0.3501,Transformadores,0.00
+AFC-SIM-0298157,Postes e estruturas,2002-11-11,0.0359,0.3573,Transformadores,0.00
+AFC-SIM-0298859,Medidores,2016-10-21,0.7446,0.3871,Postes e estruturas,0.00
+AFC-SIM-0298935,Redes de distribuicao,2001-12-25,0.3329,0.1995,Postes e estruturas,0.00
+AFC-SIM-0299233,Medidores,2025-06-23,0.9826,0.9651,Redes de distribuicao,0.00
+AFC-SIM-0299738,Medidores,2004-01-04,0.0837,0.0100,Transformadores,0.00
+AFC-SIM-0300230,Subestacoes,2025-10-01,0.9917,0.9941,Redes de distribuicao,0.00
+AFC-SIM-0301825,Subestacoes,2012-03-23,0.0817,0.6720,Medidores,0.00
+AFC-SIM-0302148,Subestacoes,2003-08-11,0.0671,0.4669,Transformadores,0.00
+AFC-SIM-0303290,Redes de distribuicao,2017-07-07,0.7643,0.7172,Postes e estruturas,0.00
+AFC-SIM-0303685,Redes de distribuicao,2022-12-19,0.9278,0.8989,Subestacoes,0.00
+AFC-SIM-0304289,Postes e estruturas,2011-03-19,0.0142,0.5892,Medidores,0.00
+AFC-SIM-0304642,Subestacoes,2013-02-20,0.5713,0.6938,Redes de distribuicao,0.00
+AFC-SIM-0305103,Transformadores,2020-12-10,0.8595,0.7893,Postes e estruturas,0.00
+AFC-SIM-0305290,Postes e estruturas,2008-01-25,0.4022,0.5019,Redes de distribuicao,0.00
+AFC-SIM-0306860,Subestacoes,1996-04-13,0.0100,0.2925,Redes de distribuicao | Transformadores | Medidores,0.00
+AFC-SIM-0307761,Transformadores,2018-04-11,0.7855,0.6782,Postes e estruturas,0.00
+AFC-SIM-0309181,Medidores,1998-10-17,0.2443,0.0100,Postes e estruturas,0.00
+AFC-SIM-0309211,Postes e estruturas,1997-06-12,0.0482,0.2069,Redes de distribuicao,0.00
+AFC-SIM-0309697,Transformadores,2023-12-13,0.9316,0.9146,Redes de distribuicao,0.00
+AFC-SIM-0309887,Postes e estruturas,2009-11-21,0.3288,0.5525,Transformadores,0.00
+AFC-SIM-0310920,Redes de distribuicao,2024-10-19,0.9500,0.9600,Transformadores,0.00
+AFC-SIM-0311062,Redes de distribuicao,2020-03-08,0.6123,0.8062,Medidores,0.00
+AFC-SIM-0311172,Redes de distribuicao,2013-05-08,0.1567,0.5784,Medidores,0.00
+AFC-SIM-0311875,Redes de distribuicao,2025-06-17,0.9640,0.9820,Medidores,0.00
+AFC-SIM-0312663,Transformadores,2012-01-15,0.0693,0.4183,Medidores,0.00
+AFC-SIM-0313052,Subestacoes,2020-02-04,0.6063,0.8594,Medidores,0.00
+AFC-SIM-0313408,Postes e estruturas,2019-04-12,0.7760,0.8133,Redes de distribuicao,0.00
+AFC-SIM-0314788,Medidores,2008-06-01,0.5116,0.0100,Postes e estruturas,0.00
+AFC-SIM-0315364,Postes e estruturas,2017-04-24,0.7104,0.7587,Redes de distribuicao,0.00
+AFC-SIM-0316964,Transformadores,2002-05-08,0.3431,0.0146,Postes e estruturas,0.00
+AFC-SIM-0317501,Medidores,2008-02-20,0.4046,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0317985,Postes e estruturas,1997-05-10,0.0452,0.2044,Redes de distribuicao,0.00
+AFC-SIM-0318346,Medidores,2021-10-03,0.8585,0.7171,Redes de distribuicao,0.00
+AFC-SIM-0318673,Redes de distribuicao,2015-01-15,0.6956,0.6347,Postes e estruturas,0.00
+AFC-SIM-0319095,Postes e estruturas,2016-07-10,0.3683,0.7368,Medidores,0.00
+AFC-SIM-0319811,Postes e estruturas,2021-09-08,0.8563,0.8802,Redes de distribuicao,0.00
+AFC-SIM-0319935,Subestacoes,2008-01-13,0.5010,0.5722,Postes e estruturas,0.00
+AFC-SIM-0320537,Subestacoes,2023-05-10,0.8237,0.9370,Medidores,0.00
+AFC-SIM-0320987,Postes e estruturas,2020-12-17,0.6642,0.8601,Medidores,0.00
+AFC-SIM-0321047,Medidores,1998-01-11,0.0677,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0321831,Redes de distribuicao,2009-02-03,0.5975,0.4365,Subestacoes,0.00
+AFC-SIM-0322568,Redes de distribuicao,2021-05-10,0.6904,0.8452,Medidores,0.00
+AFC-SIM-0322799,Subestacoes,2025-02-19,0.9760,0.9795,Postes e estruturas,0.00
+AFC-SIM-0323487,Transformadores,2001-06-07,0.1811,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0323540,Transformadores,2025-03-21,0.9480,0.9675,Medidores,0.00
+AFC-SIM-0323706,Subestacoes,2014-03-28,0.6733,0.7200,Postes e estruturas,0.00
+AFC-SIM-0324132,Subestacoes,1997-09-01,0.2130,0.3254,Postes e estruturas,0.00
+AFC-SIM-0324287,Subestacoes,1996-02-19,0.0100,0.2889,Redes de distribuicao | Transformadores | Medidores,0.00
+AFC-SIM-0324379,Subestacoes,2010-10-11,0.5772,0.6376,Postes e estruturas,0.00
+AFC-SIM-0325169,Redes de distribuicao,2015-08-12,0.3075,0.6538,Medidores,0.00
+AFC-SIM-0325390,Postes e estruturas,2021-05-19,0.6921,0.8717,Medidores,0.00
+AFC-SIM-0325428,Redes de distribuicao,2024-01-06,0.8677,0.9338,Medidores,0.00
+AFC-SIM-0325945,Medidores,2006-03-04,0.1739,0.0100,Transformadores,0.00
+AFC-SIM-0327209,Medidores,2015-06-16,0.7071,0.2971,Postes e estruturas,0.00
+AFC-SIM-0328072,Transformadores,2014-03-24,0.6076,0.5095,Redes de distribuicao,0.00
+AFC-SIM-0328436,Transformadores,2001-09-02,0.1890,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0328664,Postes e estruturas,2020-08-19,0.8211,0.8509,Redes de distribuicao,0.00
+AFC-SIM-0330816,Subestacoes,2005-08-17,0.3209,0.5149,Redes de distribuicao,0.00
+AFC-SIM-0331767,Transformadores,2009-12-21,0.4658,0.3322,Redes de distribuicao,0.00
+AFC-SIM-0332158,Transformadores,2002-01-27,0.2025,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0332649,Postes e estruturas,2014-12-22,0.2650,0.6937,Medidores,0.00
+AFC-SIM-0332964,Postes e estruturas,2022-10-08,0.7846,0.9103,Medidores,0.00
+AFC-SIM-0334373,Redes de distribuicao,2021-04-14,0.6857,0.8428,Medidores,0.00
+AFC-SIM-0334603,Transformadores,2017-02-11,0.4077,0.6298,Medidores,0.00
+AFC-SIM-0334677,Redes de distribuicao,2020-06-23,0.8466,0.8159,Postes e estruturas,0.00
+AFC-SIM-0335123,Postes e estruturas,2016-09-01,0.3780,0.7408,Medidores,0.00
+AFC-SIM-0336132,Subestacoes,2017-03-11,0.6330,0.7903,Transformadores,0.00
+AFC-SIM-0337368,Subestacoes,2018-12-17,0.5307,0.8324,Medidores,0.00
+AFC-SIM-0337664,Transformadores,2023-11-26,0.8602,0.9126,Medidores,0.00
+AFC-SIM-0338998,Medidores,2015-06-05,0.6475,0.2951,Redes de distribuicao,0.00
+AFC-SIM-0340422,Transformadores,2001-07-23,0.1853,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0340602,Transformadores,2016-06-15,0.7349,0.6023,Postes e estruturas,0.00
+AFC-SIM-0340787,Subestacoes,2014-08-07,0.5250,0.7286,Transformadores,0.00
+AFC-SIM-0340949,Medidores,1993-11-28,0.1086,0.0100,Postes e estruturas,0.00
+AFC-SIM-0341375,Postes e estruturas,2001-06-17,0.1820,0.3184,Redes de distribuicao,0.00
+AFC-SIM-0341496,Postes e estruturas,2010-12-26,0.4995,0.5829,Redes de distribuicao,0.00
+AFC-SIM-0341755,Transformadores,2016-04-03,0.7293,0.5940,Postes e estruturas,0.00
+AFC-SIM-0343701,Redes de distribuicao,1997-11-17,0.2189,0.0627,Postes e estruturas,0.00
+AFC-SIM-0343740,Subestacoes,2025-11-04,0.9948,0.9963,Redes de distribuicao,0.00
+AFC-SIM-0344127,Redes de distribuicao,2012-09-01,0.1113,0.5556,Medidores,0.00
+AFC-SIM-0344676,Transformadores,2013-06-28,0.5830,0.4788,Redes de distribuicao,0.00
+AFC-SIM-0344874,Redes de distribuicao,2007-10-20,0.4945,0.3934,Postes e estruturas,0.00
+AFC-SIM-0345479,Redes de distribuicao,2012-11-09,0.1239,0.5619,Medidores,0.00
+AFC-SIM-0346080,Medidores,1992-05-18,0.1995,0.0100,Subestacoes,0.00
+AFC-SIM-0347006,Medidores,2017-09-11,0.6540,0.4464,Transformadores,0.00
+AFC-SIM-0347206,Subestacoes,2019-10-02,0.8265,0.8512,Postes e estruturas,0.00
+AFC-SIM-0347917,Subestacoes,1996-08-28,0.0219,0.3014,Redes de distribuicao,0.00
+AFC-SIM-0348052,Transformadores,2015-04-02,0.2834,0.5521,Medidores,0.00
+AFC-SIM-0348069,Medidores,2003-09-11,0.3804,0.0100,Postes e estruturas,0.00
+AFC-SIM-0348147,Subestacoes,2022-07-21,0.8851,0.9179,Redes de distribuicao,0.00
+AFC-SIM-0349095,Medidores,2023-01-23,0.8776,0.8042,Transformadores,0.00
+AFC-SIM-0349535,Transformadores,2002-01-23,0.3351,0.0100,Postes e estruturas,0.00
+AFC-SIM-0351666,Medidores,2005-07-09,0.1467,0.0100,Transformadores,0.00
+AFC-SIM-0351869,Medidores,2013-07-28,0.5858,0.1715,Redes de distribuicao,0.00
+AFC-SIM-0352059,Medidores,2004-06-18,0.4018,0.0100,Postes e estruturas,0.00
+AFC-SIM-0353015,Medidores,2006-07-20,0.3517,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0353063,Medidores,2013-05-01,0.6984,0.1555,Subestacoes,0.00
+AFC-SIM-0353344,Subestacoes,2002-07-08,0.3477,0.4409,Postes e estruturas,0.00
+AFC-SIM-0353353,Medidores,1990-09-17,0.0198,0.0100,Postes e estruturas,0.00
+AFC-SIM-0353568,Subestacoes,2023-08-12,0.9204,0.9432,Redes de distribuicao,0.00
+AFC-SIM-0353977,Transformadores,2024-02-20,0.9379,0.9224,Redes de distribuicao,0.00
+AFC-SIM-0354296,Redes de distribuicao,1999-01-27,0.2520,0.1024,Postes e estruturas,0.00
+AFC-SIM-0354570,Redes de distribuicao,2011-02-26,0.0104,0.5052,Medidores,0.00
+AFC-SIM-0356467,Postes e estruturas,2023-01-22,0.8040,0.9183,Medidores,0.00
+AFC-SIM-0356860,Medidores,2021-09-04,0.8199,0.7118,Transformadores,0.00
+AFC-SIM-0357689,Subestacoes,2014-07-09,0.6811,0.7267,Postes e estruturas,0.00
+AFC-SIM-0358037,Transformadores,2021-07-23,0.8520,0.8150,Redes de distribuicao,0.00
+AFC-SIM-0358527,Transformadores,2011-08-02,0.5996,0.3994,Postes e estruturas,0.00
+AFC-SIM-0359586,Transformadores,1997-12-19,0.2213,0.0100,Postes e estruturas,0.00
+AFC-SIM-0360081,Medidores,2018-12-16,0.8044,0.5305,Postes e estruturas,0.00
+AFC-SIM-0360291,Transformadores,2000-10-04,0.2989,0.0100,Postes e estruturas,0.00
+AFC-SIM-0360422,Redes de distribuicao,2024-01-05,0.9448,0.9337,Postes e estruturas,0.00
+AFC-SIM-0360715,Transformadores,2006-09-20,0.3573,0.1967,Redes de distribuicao,0.00
+AFC-SIM-0361219,Transformadores,2006-12-16,0.4711,0.2066,Postes e estruturas,0.00
+AFC-SIM-0361282,Transformadores,2013-01-17,0.6402,0.4603,Postes e estruturas,0.00
+AFC-SIM-0361670,Transformadores,1996-04-16,0.1748,0.0100,Postes e estruturas,0.00
+AFC-SIM-0362174,Medidores,2008-02-05,0.2540,0.0100,Transformadores,0.00
+AFC-SIM-0362879,Postes e estruturas,2007-08-24,0.5630,0.4902,Subestacoes,0.00
+AFC-SIM-0363145,Redes de distribuicao,2020-10-14,0.7828,0.8262,Transformadores,0.00
+AFC-SIM-0363752,Subestacoes,2004-08-12,0.2872,0.4908,Redes de distribuicao,0.00
+AFC-SIM-0363947,Transformadores,2009-12-18,0.5546,0.3319,Postes e estruturas,0.00
+AFC-SIM-0364062,Medidores,2005-06-06,0.4286,0.0100,Postes e estruturas,0.00
+AFC-SIM-0364400,Subestacoes,1996-10-02,0.0251,0.3037,Redes de distribuicao,0.00
+AFC-SIM-0364430,Redes de distribuicao,2014-11-09,0.2571,0.6286,Medidores,0.00
+AFC-SIM-0365522,Subestacoes,2019-11-18,0.7960,0.8543,Redes de distribuicao,0.00
+AFC-SIM-0365590,Transformadores,1999-08-08,0.2667,0.0100,Postes e estruturas,0.00
+AFC-SIM-0365753,Subestacoes,1998-04-16,0.0763,0.3402,Redes de distribuicao,0.00
+AFC-SIM-0365784,Medidores,2005-04-23,0.3103,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0365894,Medidores,2017-07-14,0.7648,0.4356,Postes e estruturas,0.00
+AFC-SIM-0366350,Postes e estruturas,2020-04-16,0.6194,0.8414,Medidores,0.00
+AFC-SIM-0367644,Subestacoes,2018-07-12,0.7509,0.8221,Redes de distribuicao,0.00
+AFC-SIM-0367769,Postes e estruturas,2025-04-27,0.9774,0.9811,Redes de distribuicao,0.00
+AFC-SIM-0368185,Redes de distribuicao,2000-03-19,0.2837,0.1405,Postes e estruturas,0.00
+AFC-SIM-0368248,Redes de distribuicao,2016-12-10,0.3962,0.6981,Medidores,0.00
+AFC-SIM-0368366,Postes e estruturas,2010-06-16,0.3524,0.5683,Transformadores,0.00
+AFC-SIM-0369344,Medidores,1992-10-04,0.0767,0.0100,Postes e estruturas,0.00
+AFC-SIM-0369429,Medidores,2000-12-09,0.1647,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0370578,Postes e estruturas,2017-07-16,0.7180,0.7650,Redes de distribuicao,0.00
+AFC-SIM-0370821,Medidores,2011-05-22,0.5129,0.0259,Redes de distribuicao,0.00
+AFC-SIM-0370847,Redes de distribuicao,2015-03-11,0.2794,0.6397,Medidores,0.00
+AFC-SIM-0370854,Medidores,2010-11-15,0.5798,0.0100,Postes e estruturas,0.00
+AFC-SIM-0371249,Redes de distribuicao,2020-06-05,0.7679,0.8143,Transformadores,0.00
+AFC-SIM-0371897,Subestacoes,1999-05-03,0.1112,0.3651,Redes de distribuicao,0.00
+AFC-SIM-0372850,Subestacoes,2024-04-28,0.8883,0.9601,Medidores,0.00
+AFC-SIM-0373264,Subestacoes,2020-11-21,0.6594,0.8784,Medidores,0.00
+AFC-SIM-0373531,Redes de distribuicao,2024-03-25,0.9509,0.9410,Postes e estruturas,0.00
+AFC-SIM-0373723,Transformadores,2022-07-22,0.8852,0.8565,Redes de distribuicao,0.00
+AFC-SIM-0373772,Subestacoes,2000-06-22,0.1492,0.3923,Redes de distribuicao,0.00
+AFC-SIM-0373941,Subestacoes,2013-05-14,0.4736,0.6992,Transformadores,0.00
+AFC-SIM-0374266,Postes e estruturas,2011-08-15,0.5207,0.6006,Redes de distribuicao,0.00
+AFC-SIM-0374270,Redes de distribuicao,2002-12-03,0.3590,0.2308,Postes e estruturas,0.00
+AFC-SIM-0374666,Postes e estruturas,2025-05-17,0.9584,0.9827,Medidores,0.00
+AFC-SIM-0374668,Redes de distribuicao,2018-11-02,0.5225,0.7613,Medidores,0.00
+AFC-SIM-0375027,Redes de distribuicao,2010-02-03,0.5581,0.4698,Postes e estruturas,0.00
+AFC-SIM-0375717,Medidores,2011-01-21,0.3774,0.0100,Transformadores,0.00
+AFC-SIM-0375831,Redes de distribuicao,1999-09-06,0.2689,0.1227,Postes e estruturas,0.00
+AFC-SIM-0376007,Subestacoes,2024-12-07,0.9290,0.9746,Medidores,0.00
+AFC-SIM-0376349,Medidores,2001-06-23,0.3188,0.0100,Postes e estruturas,0.00
+AFC-SIM-0376394,Subestacoes,1991-07-28,0.0437,0.1803,Postes e estruturas,0.00
+AFC-SIM-0376408,Postes e estruturas,2024-05-21,0.8925,0.9552,Medidores,0.00
+AFC-SIM-0377025,Transformadores,2007-06-13,0.4847,0.2270,Postes e estruturas,0.00
+AFC-SIM-0377977,Medidores,2025-04-19,0.9708,0.9533,Transformadores,0.00
+AFC-SIM-0378025,Subestacoes,1998-09-26,0.2427,0.3509,Postes e estruturas,0.00
+AFC-SIM-0378456,Transformadores,2013-08-25,0.5883,0.4854,Redes de distribuicao,0.00
+AFC-SIM-0380145,Medidores,2023-05-24,0.9131,0.8262,Redes de distribuicao,0.00
+AFC-SIM-0380292,Subestacoes,2009-10-11,0.5494,0.6138,Postes e estruturas,0.00
+AFC-SIM-0380550,Transformadores,2012-11-11,0.1243,0.4527,Medidores,0.00
+AFC-SIM-0382931,Subestacoes,2005-10-10,0.3258,0.5185,Redes de distribuicao,0.00
+AFC-SIM-0383115,Redes de distribuicao,2023-04-16,0.8193,0.9097,Medidores,0.00
+AFC-SIM-0383337,Transformadores,2022-03-05,0.7450,0.8406,Medidores,0.00
+AFC-SIM-0383691,Redes de distribuicao,2003-05-18,0.3716,0.2459,Postes e estruturas,0.00
+AFC-SIM-0383984,Subestacoes,2023-12-22,0.9156,0.9518,Transformadores,0.00
+AFC-SIM-0384657,Transformadores,1998-09-18,0.2421,0.0100,Postes e estruturas,0.00
+AFC-SIM-0384668,Transformadores,2025-07-22,0.9704,0.9815,Medidores,0.00
+AFC-SIM-0385193,Postes e estruturas,2011-11-27,0.5302,0.6085,Redes de distribuicao,0.00
+AFC-SIM-0385568,Transformadores,2021-09-10,0.7129,0.8206,Medidores,0.00
+AFC-SIM-0386844,Medidores,1994-03-19,0.1170,0.0100,Postes e estruturas,0.00
+AFC-SIM-0386890,Redes de distribuicao,2024-12-17,0.9568,0.9654,Transformadores,0.00
+AFC-SIM-0387052,Transformadores,1992-07-05,0.0697,0.0100,Postes e estruturas,0.00
+AFC-SIM-0387089,Transformadores,2024-06-02,0.9561,0.9342,Postes e estruturas,0.00
+AFC-SIM-0388486,Redes de distribuicao,2009-04-08,0.3029,0.4423,Transformadores,0.00
+AFC-SIM-0388561,Subestacoes,2015-09-10,0.6564,0.7546,Redes de distribuicao,0.00
+AFC-SIM-0390062,Medidores,2006-04-14,0.1785,0.0100,Transformadores,0.00
+AFC-SIM-0390330,Redes de distribuicao,2006-04-24,0.1797,0.3437,Transformadores,0.00
+AFC-SIM-0391239,Redes de distribuicao,2020-10-22,0.6539,0.8270,Medidores,0.00
+AFC-SIM-0392542,Subestacoes,2012-09-22,0.6313,0.6840,Postes e estruturas,0.00
+AFC-SIM-0392620,Medidores,1992-07-05,0.0697,0.0100,Postes e estruturas,0.00
+AFC-SIM-0393030,Subestacoes,2011-08-22,0.0427,0.6581,Medidores,0.00
+AFC-SIM-0393491,Redes de distribuicao,1996-11-08,0.1904,0.0285,Postes e estruturas,0.00
+AFC-SIM-0393980,Postes e estruturas,2014-03-21,0.2146,0.6728,Medidores,0.00
+AFC-SIM-0394654,Medidores,2025-10-22,0.9920,0.9872,Transformadores,0.00
+AFC-SIM-0394768,Medidores,2000-11-24,0.3028,0.0100,Postes e estruturas,0.00
+AFC-SIM-0394841,Postes e estruturas,2001-04-20,0.1767,0.3139,Redes de distribuicao,0.00
+AFC-SIM-0395965,Postes e estruturas,2019-05-16,0.7238,0.8159,Transformadores,0.00
+AFC-SIM-0395994,Medidores,2021-10-14,0.8595,0.7191,Redes de distribuicao,0.00
+AFC-SIM-0396729,Medidores,1998-07-12,0.0843,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0397130,Transformadores,2024-02-15,0.8750,0.9219,Medidores,0.00
+AFC-SIM-0397545,Redes de distribuicao,2024-01-19,0.9459,0.9350,Postes e estruturas,0.00
+AFC-SIM-0397986,Subestacoes,2012-03-03,0.0781,0.6707,Medidores,0.00
+AFC-SIM-0398294,Subestacoes,2014-10-13,0.2522,0.7329,Medidores,0.00
+AFC-SIM-0399080,Postes e estruturas,2018-05-09,0.6814,0.7876,Transformadores,0.00
+AFC-SIM-0400243,Transformadores,2022-08-18,0.8877,0.8596,Redes de distribuicao,0.00
+AFC-SIM-0401204,Postes e estruturas,2021-06-11,0.6963,0.8735,Medidores,0.00
+AFC-SIM-0401869,Subestacoes,2019-03-01,0.5442,0.8372,Medidores,0.00
+AFC-SIM-0401969,Postes e estruturas,1998-03-04,0.0724,0.2270,Redes de distribuicao,0.00
+AFC-SIM-0401989,Medidores,2024-01-25,0.9463,0.8711,Postes e estruturas,0.00
+AFC-SIM-0402438,Medidores,2012-07-17,0.6796,0.1029,Subestacoes,0.00
+AFC-SIM-0402952,Postes e estruturas,2007-06-06,0.3810,0.4841,Redes de distribuicao,0.00
+AFC-SIM-0403350,Transformadores,2019-12-13,0.5966,0.7479,Medidores,0.00
+AFC-SIM-0403501,Subestacoes,2013-12-14,0.6654,0.7132,Postes e estruturas,0.00
+AFC-SIM-0403778,Postes e estruturas,2005-11-05,0.3282,0.4402,Redes de distribuicao,0.00
+AFC-SIM-0404296,Transformadores,2015-02-05,0.6972,0.5457,Postes e estruturas,0.00
+AFC-SIM-0404702,Postes e estruturas,2025-12-04,0.9951,0.9979,Medidores,0.00
+AFC-SIM-0404829,Medidores,2012-01-07,0.4174,0.0679,Transformadores,0.00
+AFC-SIM-0404869,Medidores,2003-11-28,0.3863,0.0100,Postes e estruturas,0.00
+AFC-SIM-0405153,Medidores,2021-04-03,0.8682,0.6837,Postes e estruturas,0.00
+AFC-SIM-0405999,Postes e estruturas,2019-02-09,0.5406,0.8086,Medidores,0.00
+AFC-SIM-0407411,Subestacoes,2019-05-16,0.7791,0.8422,Redes de distribuicao,0.00
+AFC-SIM-0407863,Medidores,2007-06-01,0.3805,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0407909,Redes de distribuicao,2023-07-07,0.9309,0.9171,Postes e estruturas,0.00
+AFC-SIM-0407963,Redes de distribuicao,2007-03-06,0.2157,0.3726,Transformadores,0.00
+AFC-SIM-0408380,Subestacoes,2022-09-07,0.7790,0.9211,Medidores,0.00
+AFC-SIM-0408585,Transformadores,1999-09-02,0.2686,0.0100,Postes e estruturas,0.00
+AFC-SIM-0409195,Postes e estruturas,2014-04-18,0.2197,0.6749,Medidores,0.00
+AFC-SIM-0409343,Postes e estruturas,1985-11-13,0.0445,0.0100,Subestacoes,0.00
+AFC-SIM-0409851,Redes de distribuicao,2020-05-12,0.7651,0.8121,Transformadores,0.00
+AFC-SIM-0411124,Medidores,2022-08-19,0.9065,0.7755,Postes e estruturas,0.00
+AFC-SIM-0411157,Subestacoes,2021-09-04,0.7118,0.8971,Medidores,0.00
+AFC-SIM-0411557,Redes de distribuicao,2024-02-27,0.8772,0.9386,Medidores,0.00
+AFC-SIM-0412640,Medidores,2023-08-18,0.9012,0.8419,Transformadores,0.00
+AFC-SIM-0412988,Redes de distribuicao,2021-05-27,0.6935,0.8468,Medidores,0.00
+AFC-SIM-0413123,Subestacoes,2016-06-21,0.3648,0.7731,Medidores,0.00
+AFC-SIM-0413234,Subestacoes,2019-05-16,0.5581,0.8422,Medidores,0.00
+AFC-SIM-0413679,Transformadores,1991-03-19,0.0337,0.0100,Postes e estruturas,0.00
+AFC-SIM-0413803,Subestacoes,2011-07-28,0.3988,0.6565,Transformadores,0.00
+AFC-SIM-0414985,Redes de distribuicao,2015-01-25,0.2712,0.6356,Medidores,0.00
+AFC-SIM-0415362,Redes de distribuicao,2012-06-11,0.4352,0.5482,Transformadores,0.00
+AFC-SIM-0415815,Transformadores,2013-05-22,0.1593,0.4746,Medidores,0.00
+AFC-SIM-0415830,Postes e estruturas,2011-07-16,0.0359,0.5983,Medidores,0.00
+AFC-SIM-0416004,Medidores,2006-05-15,0.3457,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0416326,Subestacoes,2016-08-08,0.3736,0.7763,Medidores,0.00
+AFC-SIM-0416334,Transformadores,2012-03-22,0.0815,0.4260,Medidores,0.00
+AFC-SIM-0416427,Medidores,2010-09-24,0.3638,0.0100,Transformadores,0.00
+AFC-SIM-0416558,Postes e estruturas,2004-06-21,0.1030,0.4020,Transformadores,0.00
+AFC-SIM-0417057,Redes de distribuicao,2010-04-13,0.5634,0.4761,Postes e estruturas,0.00
+AFC-SIM-0417073,Medidores,1997-07-05,0.2086,0.0100,Postes e estruturas,0.00
+AFC-SIM-0417126,Redes de distribuicao,2013-11-27,0.1938,0.5969,Medidores,0.00
+AFC-SIM-0417623,Subestacoes,1997-06-07,0.0478,0.3198,Redes de distribuicao,0.00
+AFC-SIM-0417814,Subestacoes,1990-08-25,0.0180,0.1583,Postes e estruturas,0.00
+AFC-SIM-0418135,Medidores,2007-02-15,0.4757,0.0100,Postes e estruturas,0.00
+AFC-SIM-0418137,Medidores,1995-03-08,0.1440,0.0100,Postes e estruturas,0.00
+AFC-SIM-0418724,Medidores,2011-09-07,0.4035,0.0456,Transformadores,0.00
+AFC-SIM-0419102,Postes e estruturas,2001-06-09,0.1813,0.3177,Redes de distribuicao,0.00
+AFC-SIM-0419165,Transformadores,1990-09-08,0.0191,0.0100,Postes e estruturas,0.00
+AFC-SIM-0419676,Subestacoes,2001-02-21,0.1714,0.4082,Redes de distribuicao,0.00
+AFC-SIM-0419849,Subestacoes,2003-02-09,0.3641,0.4550,Postes e estruturas,0.00
+AFC-SIM-0420136,Subestacoes,2011-07-26,0.5189,0.6563,Redes de distribuicao,0.00
+AFC-SIM-0420566,Subestacoes,2013-05-10,0.1571,0.6990,Medidores,0.00
+AFC-SIM-0421113,Transformadores,2012-02-05,0.5366,0.4207,Redes de distribuicao,0.00
+AFC-SIM-0421527,Medidores,2005-06-05,0.1428,0.0100,Transformadores,0.00
+AFC-SIM-0421584,Transformadores,2025-01-10,0.9676,0.9595,Redes de distribuicao,0.00
+AFC-SIM-0421959,Medidores,2024-05-03,0.9446,0.8892,Redes de distribuicao,0.00
+AFC-SIM-0422894,Subestacoes,1998-07-01,0.2361,0.3452,Postes e estruturas,0.00
+AFC-SIM-0423182,Postes e estruturas,2025-03-07,0.9454,0.9773,Medidores,0.00
+AFC-SIM-0423248,Transformadores,2023-01-11,0.8020,0.8762,Medidores,0.00
+AFC-SIM-0423278,Postes e estruturas,2021-09-20,0.8574,0.8811,Redes de distribuicao,0.00
+AFC-SIM-0423515,Postes e estruturas,2024-04-09,0.9424,0.9520,Redes de distribuicao,0.00
+AFC-SIM-0424044,Subestacoes,2003-01-19,0.0438,0.4536,Transformadores,0.00
+AFC-SIM-0424123,Transformadores,2020-03-13,0.6132,0.7583,Medidores,0.00
+AFC-SIM-0424169,Subestacoes,2018-11-18,0.5254,0.8305,Medidores,0.00
+AFC-SIM-0424269,Postes e estruturas,2019-11-20,0.5924,0.8302,Medidores,0.00
+AFC-SIM-0424319,Subestacoes,2014-03-04,0.5072,0.7184,Transformadores,0.00
+AFC-SIM-0425829,Subestacoes,2022-11-04,0.7896,0.9248,Medidores,0.00
+AFC-SIM-0426626,Transformadores,2020-12-11,0.8596,0.7894,Postes e estruturas,0.00
+AFC-SIM-0427469,Postes e estruturas,2017-02-03,0.6289,0.7526,Transformadores,0.00
+AFC-SIM-0427784,Medidores,2024-05-13,0.9546,0.8910,Postes e estruturas,0.00
+AFC-SIM-0427941,Transformadores,2024-09-05,0.9560,0.9450,Redes de distribuicao,0.00
+AFC-SIM-0428656,Medidores,2001-01-17,0.3069,0.0100,Postes e estruturas,0.00
+AFC-SIM-0428779,Medidores,1998-10-18,0.2444,0.0100,Postes e estruturas,0.00
+AFC-SIM-0428953,Postes e estruturas,2019-10-07,0.7922,0.8268,Redes de distribuicao,0.00
+AFC-SIM-0428984,Subestacoes,2019-12-28,0.5994,0.8569,Medidores,0.00
+AFC-SIM-0429012,Redes de distribuicao,2020-02-16,0.6085,0.8042,Medidores,0.00
+AFC-SIM-0429090,Postes e estruturas,2022-03-01,0.8721,0.8935,Redes de distribuicao,0.00
+AFC-SIM-0430201,Transformadores,2004-07-07,0.4885,0.1048,Subestacoes,0.00
+AFC-SIM-0431568,Subestacoes,2011-02-16,0.5869,0.6459,Postes e estruturas,0.00
+AFC-SIM-0431581,Medidores,1993-12-10,0.1095,0.0100,Postes e estruturas,0.00
+AFC-SIM-0432164,Redes de distribuicao,2018-12-08,0.7057,0.7645,Transformadores,0.00
+AFC-SIM-0432845,Medidores,2023-03-27,0.9078,0.8157,Redes de distribuicao,0.00
+AFC-SIM-0433355,Redes de distribuicao,1987-12-25,0.0948,0.0100,Subestacoes,0.00
+AFC-SIM-0435278,Redes de distribuicao,2025-10-01,0.9896,0.9917,Transformadores,0.00
+AFC-SIM-0435419,Medidores,1999-08-27,0.2682,0.0100,Postes e estruturas,0.00
+AFC-SIM-0435666,Subestacoes,2012-03-14,0.5400,0.6715,Redes de distribuicao,0.00
+AFC-SIM-0435871,Transformadores,1989-09-17,0.1360,0.0100,Subestacoes,0.00
+AFC-SIM-0436526,Postes e estruturas,2011-01-24,0.0100,0.5851,Medidores,0.00
+AFC-SIM-0436993,Transformadores,2012-04-27,0.0881,0.4301,Medidores,0.00
+AFC-SIM-0437650,Medidores,2014-07-12,0.6176,0.2352,Redes de distribuicao,0.00
+AFC-SIM-0437724,Redes de distribuicao,2021-06-04,0.6950,0.8475,Medidores,0.00
+AFC-SIM-0438054,Postes e estruturas,2001-09-02,0.1890,0.3242,Redes de distribuicao,0.00
+AFC-SIM-0438625,Subestacoes,2021-09-13,0.8806,0.8977,Postes e estruturas,0.00
+AFC-SIM-0438875,Medidores,2006-01-08,0.3341,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0439121,Subestacoes,2022-06-08,0.9010,0.9151,Postes e estruturas,0.00
+AFC-SIM-0439518,Transformadores,1997-10-17,0.2165,0.0100,Postes e estruturas,0.00
+AFC-SIM-0439955,Transformadores,2005-09-12,0.3233,0.1541,Redes de distribuicao,0.00
+AFC-SIM-0440223,Postes e estruturas,2020-03-01,0.6110,0.8379,Medidores,0.00
+AFC-SIM-0440942,Transformadores,1997-06-05,0.0476,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0440994,Redes de distribuicao,1999-06-13,0.2625,0.1149,Postes e estruturas,0.00
+AFC-SIM-0441022,Medidores,1995-02-17,0.1425,0.0100,Postes e estruturas,0.00
+AFC-SIM-0441354,Subestacoes,2018-02-07,0.7368,0.8120,Redes de distribuicao,0.00
+AFC-SIM-0443224,Medidores,2016-06-20,0.6029,0.3646,Transformadores,0.00
+AFC-SIM-0443695,Redes de distribuicao,2015-09-11,0.7137,0.6565,Postes e estruturas,0.00
+AFC-SIM-0444361,Redes de distribuicao,2022-08-12,0.7742,0.8871,Medidores,0.00
+AFC-SIM-0444649,Transformadores,2017-01-23,0.7021,0.6277,Redes de distribuicao,0.00
+AFC-SIM-0444767,Transformadores,2010-07-08,0.4839,0.3549,Redes de distribuicao,0.00
+AFC-SIM-0445038,Postes e estruturas,2015-12-26,0.5827,0.7218,Transformadores,0.00
+AFC-SIM-0445913,Postes e estruturas,2009-11-28,0.4637,0.5530,Redes de distribuicao,0.00
+AFC-SIM-0445925,Redes de distribuicao,2013-11-07,0.4938,0.5951,Transformadores,0.00
+AFC-SIM-0446063,Redes de distribuicao,1995-10-06,0.1601,0.0100,Postes e estruturas,0.00
+AFC-SIM-0447001,Postes e estruturas,2010-08-11,0.6336,0.5725,Subestacoes,0.00
+AFC-SIM-0447193,Medidores,1996-08-08,0.1834,0.0100,Postes e estruturas,0.00
+AFC-SIM-0447829,Transformadores,2009-05-05,0.4448,0.3060,Redes de distribuicao,0.00
+AFC-SIM-0447840,Redes de distribuicao,2011-08-15,0.0414,0.5207,Medidores,0.00
+AFC-SIM-0448071,Medidores,2018-11-20,0.7629,0.5258,Redes de distribuicao,0.00
+AFC-SIM-0448720,Subestacoes,2019-08-18,0.8230,0.8483,Postes e estruturas,0.00
+AFC-SIM-0449598,Transformadores,2006-10-15,0.4663,0.1995,Postes e estruturas,0.00
+AFC-SIM-0449840,Subestacoes,2017-10-01,0.7250,0.8036,Redes de distribuicao,0.00
+AFC-SIM-0450190,Subestacoes,2013-09-12,0.5900,0.7071,Redes de distribuicao,0.00
+AFC-SIM-0450380,Transformadores,2003-07-24,0.2520,0.0650,Redes de distribuicao,0.00
+AFC-SIM-0450397,Medidores,2024-05-12,0.9545,0.8909,Postes e estruturas,0.00
+AFC-SIM-0450527,Postes e estruturas,2017-07-22,0.7185,0.7655,Redes de distribuicao,0.00
+AFC-SIM-0450762,Medidores,2009-08-05,0.4532,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0452089,Medidores,2019-11-18,0.7960,0.5921,Redes de distribuicao,0.00
+AFC-SIM-0452985,Postes e estruturas,2020-08-06,0.8199,0.8500,Redes de distribuicao,0.00
+AFC-SIM-0453726,Postes e estruturas,2006-01-09,0.3342,0.4451,Redes de distribuicao,0.00
+AFC-SIM-0454113,Medidores,2024-01-18,0.9349,0.8699,Redes de distribuicao,0.00
+AFC-SIM-0454185,Medidores,2002-09-19,0.0299,0.0100,Transformadores,0.00
+AFC-SIM-0454902,Subestacoes,2012-01-07,0.0679,0.6671,Medidores,0.00
+AFC-SIM-0455259,Medidores,1991-11-23,0.0526,0.0100,Postes e estruturas,0.00
+AFC-SIM-0455269,Redes de distribuicao,1995-03-17,0.1446,0.0100,Postes e estruturas,0.00
+AFC-SIM-0455531,Postes e estruturas,2012-02-15,0.4219,0.6146,Transformadores,0.00
+AFC-SIM-0456076,Subestacoes,2025-09-15,0.9805,0.9930,Medidores,0.00
+AFC-SIM-0456336,Redes de distribuicao,2018-03-03,0.7825,0.7390,Postes e estruturas,0.00
+AFC-SIM-0456657,Medidores,2010-09-28,0.5762,0.0100,Postes e estruturas,0.00
+AFC-SIM-0456679,Medidores,2008-09-19,0.5200,0.0100,Postes e estruturas,0.00
+AFC-SIM-0456837,Redes de distribuicao,1992-05-17,0.0660,0.0100,Postes e estruturas,0.00
+AFC-SIM-0456871,Subestacoes,2005-11-18,0.3294,0.5210,Redes de distribuicao,0.00
+AFC-SIM-0457461,Subestacoes,2024-03-15,0.8803,0.9572,Medidores,0.00
+AFC-SIM-0457762,Subestacoes,1996-02-04,0.0100,0.2880,Redes de distribuicao | Transformadores | Medidores,0.00
+AFC-SIM-0458797,Postes e estruturas,2000-06-11,0.1482,0.2901,Redes de distribuicao,0.00
+AFC-SIM-0459128,Redes de distribuicao,2013-09-05,0.6578,0.5893,Postes e estruturas,0.00
+AFC-SIM-0459251,Transformadores,2004-01-27,0.3909,0.0864,Postes e estruturas,0.00
+AFC-SIM-0460171,Subestacoes,2002-08-23,0.2214,0.4439,Redes de distribuicao,0.00
+AFC-SIM-0460260,Postes e estruturas,2009-05-17,0.3073,0.5382,Transformadores,0.00
+AFC-SIM-0461454,Medidores,2012-02-08,0.6140,0.0737,Postes e estruturas,0.00
+AFC-SIM-0461529,Subestacoes,2015-05-13,0.2909,0.7467,Medidores,0.00
+AFC-SIM-0461929,Redes de distribuicao,2017-11-07,0.4568,0.7284,Medidores,0.00
+AFC-SIM-0462050,Medidores,1991-05-17,0.0382,0.0100,Postes e estruturas,0.00
+AFC-SIM-0462279,Redes de distribuicao,2021-09-27,0.8225,0.8580,Transformadores,0.00
+AFC-SIM-0462485,Subestacoes,2013-06-22,0.1650,0.7018,Medidores,0.00
+AFC-SIM-0463232,Medidores,1990-06-09,0.0122,0.0100,Postes e estruturas,0.00
+AFC-SIM-0463236,Postes e estruturas,2011-02-28,0.0107,0.5878,Medidores,0.00
+AFC-SIM-0463824,Subestacoes,2007-10-22,0.4946,0.5668,Postes e estruturas,0.00
+AFC-SIM-0463969,Postes e estruturas,2014-10-11,0.5324,0.6883,Transformadores,0.00
+AFC-SIM-0465577,Subestacoes,2018-06-01,0.6840,0.8194,Transformadores,0.00
+AFC-SIM-0466063,Subestacoes,2021-06-28,0.8121,0.8926,Transformadores,0.00
+AFC-SIM-0466073,Medidores,2021-12-09,0.8308,0.7293,Transformadores,0.00
+AFC-SIM-0466976,Medidores,1992-01-11,0.0564,0.0100,Postes e estruturas,0.00
+AFC-SIM-0467951,Transformadores,2023-07-19,0.8365,0.8978,Medidores,0.00
+AFC-SIM-0468346,Redes de distribuicao,2022-06-18,0.8526,0.8821,Transformadores,0.00
+AFC-SIM-0468596,Postes e estruturas,2009-03-18,0.4404,0.5337,Redes de distribuicao,0.00
+AFC-SIM-0469134,Medidores,2019-09-16,0.7903,0.5806,Redes de distribuicao,0.00
+AFC-SIM-0469188,Transformadores,2020-03-22,0.6149,0.7593,Medidores,0.00
+AFC-SIM-0469244,Redes de distribuicao,2017-07-03,0.4336,0.7168,Medidores,0.00
+AFC-SIM-0469441,Postes e estruturas,2016-07-20,0.6851,0.7375,Redes de distribuicao,0.00
+AFC-SIM-0469745,Medidores,2018-10-20,0.7001,0.5201,Transformadores,0.00
+AFC-SIM-0469974,Medidores,1993-06-19,0.0963,0.0100,Postes e estruturas,0.00
+AFC-SIM-0471081,Transformadores,2013-04-19,0.1533,0.4708,Medidores,0.00
+AFC-SIM-0472030,Redes de distribuicao,2020-11-10,0.8573,0.8287,Postes e estruturas,0.00
+AFC-SIM-0472966,Medidores,2012-02-27,0.6704,0.0772,Subestacoes,0.00
+AFC-SIM-0473361,Transformadores,2013-09-23,0.1819,0.4887,Medidores,0.00
+AFC-SIM-0473723,Redes de distribuicao,2016-12-27,0.6246,0.6997,Transformadores,0.00
+AFC-SIM-0474178,Redes de distribuicao,2017-07-06,0.4342,0.7171,Medidores,0.00
+AFC-SIM-0474341,Medidores,2005-11-25,0.1626,0.0100,Transformadores,0.00
+AFC-SIM-0474688,Redes de distribuicao,2021-07-02,0.8750,0.8501,Postes e estruturas,0.00
+AFC-SIM-0475248,Subestacoes,2005-12-11,0.3315,0.5225,Redes de distribuicao,0.00
+AFC-SIM-0476193,Subestacoes,2012-04-20,0.0868,0.6739,Medidores,0.00
+AFC-SIM-0476791,Postes e estruturas,2011-10-13,0.6615,0.6051,Subestacoes,0.00
+AFC-SIM-0477304,Postes e estruturas,2023-08-01,0.9194,0.9328,Redes de distribuicao,0.00
+AFC-SIM-0478316,Medidores,2020-08-09,0.8202,0.6404,Redes de distribuicao,0.00
+AFC-SIM-0478446,Medidores,2021-04-03,0.8023,0.6837,Transformadores,0.00
+AFC-SIM-0478520,Medidores,1991-10-24,0.0503,0.0100,Postes e estruturas,0.00
+AFC-SIM-0479856,Redes de distribuicao,2010-02-07,0.5584,0.4701,Postes e estruturas,0.00
+AFC-SIM-0480676,Redes de distribuicao,2012-04-17,0.0863,0.5431,Medidores,0.00
+AFC-SIM-0480933,Transformadores,2013-10-13,0.5928,0.4910,Redes de distribuicao,0.00
+AFC-SIM-0481270,Postes e estruturas,1998-10-21,0.0935,0.2446,Redes de distribuicao,0.00
+AFC-SIM-0481958,Redes de distribuicao,2011-08-05,0.0396,0.5198,Medidores,0.00
+AFC-SIM-0482127,Postes e estruturas,2025-09-18,0.9810,0.9921,Medidores,0.00
+AFC-SIM-0484620,Medidores,1997-10-04,0.2155,0.0100,Postes e estruturas,0.00
+AFC-SIM-0484793,Medidores,2022-12-25,0.8994,0.7989,Redes de distribuicao,0.00
+AFC-SIM-0485012,Medidores,2005-02-17,0.1305,0.0100,Transformadores,0.00
+AFC-SIM-0486147,Transformadores,2007-03-16,0.4779,0.2169,Postes e estruturas,0.00
+AFC-SIM-0487603,Medidores,2013-05-28,0.6502,0.1604,Postes e estruturas,0.00
+AFC-SIM-0487700,Subestacoes,1998-02-21,0.2262,0.3367,Postes e estruturas,0.00
+AFC-SIM-0487727,Subestacoes,2016-09-04,0.3785,0.7780,Medidores,0.00
+AFC-SIM-0487874,Postes e estruturas,2024-07-17,0.9029,0.9595,Medidores,0.00
+AFC-SIM-0488710,Subestacoes,2019-10-09,0.8270,0.8517,Postes e estruturas,0.00
+AFC-SIM-0489249,Transformadores,2020-03-10,0.8386,0.7579,Postes e estruturas,0.00
+AFC-SIM-0489293,Medidores,2025-06-23,0.9782,0.9651,Transformadores,0.00
+AFC-SIM-0489480,Postes e estruturas,2012-10-23,0.5604,0.6337,Redes de distribuicao,0.00
+AFC-SIM-0490789,Transformadores,1996-12-16,0.1933,0.0100,Postes e estruturas,0.00
+AFC-SIM-0491516,Postes e estruturas,2005-12-13,0.1646,0.4431,Transformadores,0.00
+AFC-SIM-0492159,Transformadores,1998-02-16,0.0710,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0492962,Transformadores,2015-06-14,0.7070,0.5605,Postes e estruturas,0.00
+AFC-SIM-0493563,Medidores,2025-11-17,0.9960,0.9920,Redes de distribuicao,0.00
+AFC-SIM-0493809,Redes de distribuicao,2017-12-05,0.7758,0.7310,Postes e estruturas,0.00
+AFC-SIM-0494078,Postes e estruturas,2013-04-09,0.5757,0.6464,Redes de distribuicao,0.00
+AFC-SIM-0494090,Redes de distribuicao,2025-02-20,0.9427,0.9713,Medidores,0.00
+AFC-SIM-0494441,Postes e estruturas,2000-11-23,0.1632,0.3027,Redes de distribuicao,0.00
+AFC-SIM-0495231,Transformadores,2018-10-20,0.8001,0.7001,Postes e estruturas,0.00
+AFC-SIM-0495920,Subestacoes,2020-09-19,0.7799,0.8743,Transformadores,0.00
+AFC-SIM-0497147,Subestacoes,2012-02-14,0.6145,0.6696,Postes e estruturas,0.00
+AFC-SIM-0497456,Postes e estruturas,2019-07-13,0.5687,0.8203,Medidores,0.00
+AFC-SIM-0498209,Transformadores,2022-04-06,0.8962,0.8443,Postes e estruturas,0.00
+AFC-SIM-0498656,Subestacoes,2021-07-17,0.8514,0.8939,Redes de distribuicao,0.00
+AFC-SIM-0498943,Medidores,2010-09-11,0.4898,0.0100,Redes de distribuicao,0.00
+AFC-SIM-0500005,Transformadores,2014-09-11,0.2464,0.5290,Medidores,0.00
+AFC-SIM-0500155,Subestacoes,1997-05-14,0.2047,0.3183,Postes e estruturas,0.00
+AFC-SIM-0500267,Subestacoes,1994-12-21,0.1381,0.2612,Postes e estruturas,0.00
+AFC-SIM-0500290,Subestacoes,2013-09-03,0.5891,0.7065,Redes de distribuicao,0.00
+AFC-SIM-0500671,Medidores,1997-11-06,0.2180,0.0100,Postes e estruturas,0.00
+AFC-SIM-0500710,Redes de distribuicao,1992-12-18,0.0824,0.0100,Postes e estruturas,0.00

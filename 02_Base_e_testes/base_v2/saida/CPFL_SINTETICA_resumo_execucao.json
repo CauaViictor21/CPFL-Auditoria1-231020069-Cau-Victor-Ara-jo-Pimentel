@@ -1,0 +1,44 @@
+{
+  "versao_gerador": "2.0",
+  "semente": 231020069,
+  "python": "3.13.16",
+  "sistema": "Linux-6.18.44-fc-v153-x86_64-with-glibc2.39",
+  "executado_em": "2026-10-23T12:26:19",
+  "duracao_s": 17.7,
+  "linhas_base_registrada": 501000,
+  "linhas_referencia": 500000,
+  "linhas_por_distribuidora_referencia": {
+    "CPFL Paulista": 212959,
+    "RGE": 214934,
+    "CPFL Piratininga": 64756,
+    "CPFL Santa Cruz": 7351
+  },
+  "fator_escala_por_distribuidora": {
+    "CPFL Paulista": 1.32329073,
+    "RGE": 1.32548465,
+    "CPFL Piratininga": 1.33566195,
+    "CPFL Santa Cruz": 1.27161731
+  },
+  "total_registrado_rs": 29623619000.0,
+  "saldo_publicado_rs": 29623619000.0,
+  "diferenca_rs": 0.0,
+  "total_registrado_por_distribuidora_rs": {
+    "CPFL Paulista": 12617237000.0,
+    "RGE": 12734234000.0,
+    "CPFL Piratininga": 3836600000.0,
+    "CPFL Santa Cruz": 435548000.0
+  },
+  "sha256": {
+    "saida/CPFL_SINTETICA_Base_AFC_2025_registrada.csv.gz": "877d4a0256af842b859617f22c71678f30749e75b724c20cd205895ef85e4bb0",
+    "RESERVADO_NAO_ABRIR_ATE_CONGELAMENTO/CPFL_SINTETICA_Base_referencia_sem_erros.csv.gz": "48652ae2da566026007a70915ef9112862ec0ecdd91a807c09e0f954e618fcfc",
+    "RESERVADO_NAO_ABRIR_ATE_CONGELAMENTO/CPFL_SINTETICA_Registro_erros_inseridos.csv": "45e3ec3eba8d27918689506dccfb68d19b8da4a6c7b7113e988a0bcde3a1bbb8",
+    "RESERVADO_NAO_ABRIR_ATE_CONGELAMENTO/CPFL_SINTETICA_Ponte_efeito_erros.json": "7eabcc92f3d2e888fe90cba6e4992b06627d42260229359a29c2f57c4ebe3b32"
+  },
+  "bytes": {
+    "saida/CPFL_SINTETICA_Base_AFC_2025_registrada.csv.gz": 14678974,
+    "RESERVADO_NAO_ABRIR_ATE_CONGELAMENTO/CPFL_SINTETICA_Base_referencia_sem_erros.csv.gz": 6582189,
+    "RESERVADO_NAO_ABRIR_ATE_CONGELAMENTO/CPFL_SINTETICA_Registro_erros_inseridos.csv": 520069,
+    "RESERVADO_NAO_ABRIR_ATE_CONGELAMENTO/CPFL_SINTETICA_Ponte_efeito_erros.json": 593
+  },
+  "aviso": "Arquivos em RESERVADO_NAO_ABRIR_ATE_CONGELAMENTO contem a verdade dos erros: nao usar nos testes de deteccao."
+}

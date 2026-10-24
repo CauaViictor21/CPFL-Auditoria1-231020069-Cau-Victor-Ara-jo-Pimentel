@@ -1,0 +1,229 @@
+{
+ "arquivo": "saida/CPFL_SINTETICA_Base_AFC_2025_registrada.csv.gz",
+ "sha256": "877d4a0256af842b859617f22c71678f30749e75b724c20cd205895ef85e4bb0",
+ "bytes": 14678974,
+ "executado_em": "2026-10-23T12:43:47",
+ "duracao_s": 5.3,
+ "cabecalho_confere": true,
+ "linhas_dados": 501000,
+ "ids_registro_unicos": 501000,
+ "ids_bem_tecnico_distintos": 500000,
+ "ids_bem_tecnico_repetidos": 1000,
+ "linhas_excedentes_por_bem_repetido": 1000,
+ "max_ocorrencias_mesmo_bem": 2,
+ "status": {
+  "ATIVO": 500000,
+  "BAIXADO": 1000
+ },
+ "campos_vazios": {
+  "data_baixa": 500000
+ },
+ "falhas_de_geracao": {},
+ "exemplos_falhas": {},
+ "total_rs": 29623619000.0,
+ "saldo_publicado_rs": 29623619000.0,
+ "diferenca_total_rs": 0.0,
+ "por_distribuidora": {
+  "CPFL Paulista": {
+   "total_rs": 12617237000.0,
+   "saldo_publicado_rs": 12617237000.0,
+   "diferenca_rs": 0.0,
+   "linhas": 213372
+  },
+  "RGE": {
+   "total_rs": 12734234000.0,
+   "saldo_publicado_rs": 12734234000.0,
+   "diferenca_rs": 0.0,
+   "linhas": 215362
+  },
+  "CPFL Piratininga": {
+   "total_rs": 3836600000.0,
+   "saldo_publicado_rs": 3836600000.0,
+   "diferenca_rs": 0.0,
+   "linhas": 64897
+  },
+  "CPFL Santa Cruz": {
+   "total_rs": 435548000.0,
+   "saldo_publicado_rs": 435548000.0,
+   "diferenca_rs": 0.0,
+   "linhas": 7369
+  }
+ },
+ "por_distribuidora_categoria": [
+  {
+   "distribuidora": "CPFL Paulista",
+   "categoria": "Redes de distribuicao",
+   "linhas": 56913,
+   "total_rs": 2356157992.07
+  },
+  {
+   "distribuidora": "CPFL Paulista",
+   "categoria": "Transformadores",
+   "linhas": 29950,
+   "total_rs": 2349394126.27
+  },
+  {
+   "distribuidora": "CPFL Paulista",
+   "categoria": "Postes e estruturas",
+   "linhas": 68498,
+   "total_rs": 1045264848.03
+  },
+  {
+   "distribuidora": "CPFL Paulista",
+   "categoria": "Medidores",
+   "linhas": 51500,
+   "total_rs": 247464324.49
+  },
+  {
+   "distribuidora": "CPFL Paulista",
+   "categoria": "Subestacoes",
+   "linhas": 6511,
+   "total_rs": 6618955709.14
+  },
+  {
+   "distribuidora": "RGE",
+   "categoria": "Redes de distribuicao",
+   "linhas": 57852,
+   "total_rs": 2411124095.63
+  },
+  {
+   "distribuidora": "RGE",
+   "categoria": "Transformadores",
+   "linhas": 30501,
+   "total_rs": 2396200905.0
+  },
+  {
+   "distribuidora": "RGE",
+   "categoria": "Postes e estruturas",
+   "linhas": 68821,
+   "total_rs": 1050975813.53
+  },
+  {
+   "distribuidora": "RGE",
+   "categoria": "Medidores",
+   "linhas": 51539,
+   "total_rs": 248864502.75
+  },
+  {
+   "distribuidora": "RGE",
+   "categoria": "Subestacoes",
+   "linhas": 6649,
+   "total_rs": 6627068683.09
+  },
+  {
+   "distribuidora": "CPFL Piratininga",
+   "categoria": "Redes de distribuicao",
+   "linhas": 17379,
+   "total_rs": 725626872.35
+  },
+  {
+   "distribuidora": "CPFL Piratininga",
+   "categoria": "Transformadores",
+   "linhas": 9052,
+   "total_rs": 726516900.37
+  },
+  {
+   "distribuidora": "CPFL Piratininga",
+   "categoria": "Postes e estruturas",
+   "linhas": 20854,
+   "total_rs": 319746640.54
+  },
+  {
+   "distribuidora": "CPFL Piratininga",
+   "categoria": "Medidores",
+   "linhas": 15645,
+   "total_rs": 74476578.95
+  },
+  {
+   "distribuidora": "CPFL Piratininga",
+   "categoria": "Subestacoes",
+   "linhas": 1967,
+   "total_rs": 1990233007.79
+  },
+  {
+   "distribuidora": "CPFL Santa Cruz",
+   "categoria": "Redes de distribuicao",
+   "linhas": 1993,
+   "total_rs": 77752317.1
+  },
+  {
+   "distribuidora": "CPFL Santa Cruz",
+   "categoria": "Transformadores",
+   "linhas": 1013,
+   "total_rs": 74211451.11
+  },
+  {
+   "distribuidora": "CPFL Santa Cruz",
+   "categoria": "Postes e estruturas",
+   "linhas": 2396,
+   "total_rs": 34634283.89
+  },
+  {
+   "distribuidora": "CPFL Santa Cruz",
+   "categoria": "Medidores",
+   "linhas": 1750,
+   "total_rs": 8129564.26
+  },
+  {
+   "distribuidora": "CPFL Santa Cruz",
+   "categoria": "Subestacoes",
+   "linhas": 217,
+   "total_rs": 240820383.64
+  }
+ ],
+ "mediana_valor_sobre_vnr_fator_residual": {
+  "RGE": 1.325485,
+  "CPFL Paulista": 1.323291,
+  "CPFL Piratininga": 1.335662,
+  "CPFL Santa Cruz": 1.271617
+ },
+ "fator_escala_publicado_no_resumo": {
+  "CPFL Paulista": 1.32329073,
+  "RGE": 1.32548465,
+  "CPFL Piratininga": 1.33566195,
+  "CPFL Santa Cruz": 1.27161731
+ },
+ "incorporacoes_por_ano": {
+  "1985": 355,
+  "1986": 340,
+  "1987": 415,
+  "1988": 388,
+  "1989": 371,
+  "1990": 4788,
+  "1991": 4904,
+  "1992": 4721,
+  "1993": 4861,
+  "1994": 4909,
+  "1995": 4711,
+  "1996": 9345,
+  "1997": 9324,
+  "1998": 9276,
+  "1999": 9228,
+  "2000": 9275,
+  "2001": 9250,
+  "2002": 12181,
+  "2003": 12205,
+  "2004": 12196,
+  "2005": 12241,
+  "2006": 12150,
+  "2007": 12356,
+  "2008": 12182,
+  "2009": 12467,
+  "2010": 12293,
+  "2011": 20107,
+  "2012": 20536,
+  "2013": 20041,
+  "2014": 20534,
+  "2015": 20339,
+  "2016": 20587,
+  "2017": 20164,
+  "2018": 20503,
+  "2019": 20330,
+  "2020": 20112,
+  "2021": 20172,
+  "2022": 20156,
+  "2023": 20265,
+  "2024": 20117,
+  "2025": 20305
+ }
+}

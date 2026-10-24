@@ -1,0 +1,65 @@
+{
+ "executado_em": "2026-10-23T19:54:28",
+ "duracao_s": 5.7,
+ "base_sha256": "877d4a0256af842b859617f22c71678f30749e75b724c20cd205895ef85e4bb0",
+ "linhas": 501000,
+ "total_rs": 29623619000.0,
+ "k_estimado_por_distribuidora": {
+  "RGE": 1.32548465,
+  "CPFL Paulista": 1.32329073,
+  "CPFL Piratininga": 1.33566195,
+  "CPFL Santa Cruz": 1.27161731
+ },
+ "T1": {
+  "pares": 1000,
+  "atributos_identicos": 1000,
+  "distorcao_rs": 59975200.49
+ },
+ "T2": {
+  "itens": 1000,
+  "distorcao_rs": 56070250.89
+ },
+ "T3": {
+  "itens": 2000,
+  "superavaliacao_itens": 1000,
+  "superavaliacao_rs": 8250695.88,
+  "subavaliacao_itens": 1000,
+  "subavaliacao_rs": -6811809.08,
+  "sobreposicao_com_T1_T2": 0
+ },
+ "T4": {
+  "itens": 996,
+  "sobreposicao_com_T3": 0
+ },
+ "MUS": {
+  "populacao_rs": 29623619000.0,
+  "unidades_amostrais_itens": 501000,
+  "risco_aceitacao_incorreta": 0.05,
+  "fator_confianca_0_erros": 2.9957,
+  "distorcao_toleravel_rs": 303421730.0,
+  "distorcao_esperada_rs": 45513259.5,
+  "fator_expansao": 1.6,
+  "tamanho_amostra_n": 385,
+  "intervalo_amostral_rs": 76944464.94,
+  "ponto_inicial_rs": 26922277.72,
+  "semente": 2310200698,
+  "itens_distintos_selecionados": 385,
+  "itens_selecionados_mais_de_uma_vez": 0,
+  "itens_selecao_integral_(>=J)": [],
+  "distorcoes_superavaliacao_na_amostra": 4,
+  "distorcoes_subavaliacao_na_amostra": 2,
+  "soma_distorcoes_amostra_rs": 1534709.56,
+  "distorcao_projetada_superavaliacao_rs": 307777859.74,
+  "distorcao_projetada_subavaliacao_rs": -26538116.37,
+  "precisao_basica_rs": 230505016.88,
+  "incrementos_precisao_rs": [
+   134509100.21,
+   119412354.48,
+   112174481.26,
+   107711670.95
+  ],
+  "limite_superior_distorcao_UML_rs": 704312623.78,
+  "conclusao_regra": "UML > distorcao toleravel: ampliar procedimentos"
+ },
+ "distorcao_conhecida_liquida_rs": 117484338.18
+}

@@ -1,0 +1,26 @@
+{
+ "executado_em": "2026-10-23T19:55:30",
+ "etapa_1_desenho_original": {
+  "UML_rs": 704312623.78,
+  "DT_rs": 303421730.0,
+  "resultado": "UML > DT"
+ },
+ "etapa_2_natureza_causa": "As 6 distorcoes da amostra pertencem as classes T1/T2/T3, identificadas em 100% da populacao; sistematicas, nao anomalias (530 item 13 nao aplicavel)",
+ "superavaliacao_conhecida_rs": 124296147.26,
+ "subavaliacao_conhecida_rs": -6811809.08,
+ "distorcao_conhecida_liquida_rs": 117484338.18,
+ "registros_sinalizados_excluidos": 4000,
+ "populacao_residual_rs": 29379887051.8,
+ "populacao_residual_itens": 497000,
+ "folga_para_nao_detectado_rs": 179125582.74,
+ "ampliacao_n": 492,
+ "ampliacao_intervalo_rs": 59715217.58,
+ "ampliacao_semente": 2310200699,
+ "ampliacao_itens_distintos": 492,
+ "ampliacao_distorcoes": 0,
+ "ampliacao_itens_T4": 2,
+ "UML_residual_rs": 178890804.54,
+ "superavaliacao_conhecida_mais_UML_residual_rs": 303186951.8,
+ "conclusao": "superavaliacao conhecida + UML residual <= DT",
+ "limite_didatico": "Na simulacao, o procedimento aplicado aos itens sorteados reutiliza as regras T1-T4; a amostra nao pode revelar tipos de erro nao programados nos testes."
+}

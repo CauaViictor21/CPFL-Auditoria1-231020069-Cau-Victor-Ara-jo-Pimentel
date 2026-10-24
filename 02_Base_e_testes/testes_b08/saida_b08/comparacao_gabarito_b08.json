@@ -1,0 +1,122 @@
+{
+ "hashes_reservados_conferem": {
+  "referencia": true,
+  "registro_erros": true,
+  "ponte": true
+ },
+ "saidas_inalteradas_desde_congelamento": true,
+ "T1_pares": {
+  "sinalizados": 1000,
+  "verdadeiros": 1000,
+  "detectados": 1000,
+  "omitidos": 0,
+  "falsos_positivos": 0
+ },
+ "T1_convencao_id_maior_acertou_o_excedente": 497,
+ "T2": {
+  "sinalizados": 1000,
+  "verdadeiros": 1000,
+  "detectados": 1000,
+  "omitidos": 0,
+  "falsos_positivos": 0,
+  "taxa_deteccao": 1.0
+ },
+ "T3_super": {
+  "sinalizados": 1000,
+  "verdadeiros": 1000,
+  "detectados": 1000,
+  "omitidos": 0,
+  "falsos_positivos": 0,
+  "taxa_deteccao": 1.0
+ },
+ "T3_sub": {
+  "sinalizados": 1000,
+  "verdadeiros": 1000,
+  "detectados": 1000,
+  "omitidos": 0,
+  "falsos_positivos": 0,
+  "taxa_deteccao": 1.0
+ },
+ "T4_classificacao": {
+  "sinalizados": 996,
+  "verdadeiros": 1000,
+  "detectados": 996,
+  "omitidos": 4,
+  "falsos_positivos": 0,
+  "taxa_deteccao": 0.996
+ },
+ "efeito_monetario_por_tipo": {
+  "DUPLICIDADE_CADASTRAL": {
+   "estimado_testes_rs": 59975200.49,
+   "verdadeiro_rs": 59975200.49,
+   "diferenca_rs": 0.0
+  },
+  "BAIXADO_MANTIDO": {
+   "estimado_testes_rs": 56070250.89,
+   "verdadeiro_rs": 56070250.89,
+   "diferenca_rs": 0.0
+  },
+  "SUPERAVALIACAO": {
+   "estimado_testes_rs": 8250695.88,
+   "verdadeiro_rs": 8250695.88,
+   "diferenca_rs": 0.0
+  },
+  "SUBAVALIACAO": {
+   "estimado_testes_rs": -6811809.08,
+   "verdadeiro_rs": -6811809.1,
+   "diferenca_rs": 0.02
+  },
+  "CLASSIFICACAO_INCORRETA": {
+   "estimado_testes_rs": 0.0,
+   "verdadeiro_rs": 0.0,
+   "diferenca_rs": 0.0
+  }
+ },
+ "ponte": {
+  "saldo_publicado_rs": 29623619000.0,
+  "total_registrado_base_rs": 29623619000.0,
+  "efeito_por_tipo_rs": {
+   "SUPERAVALIACAO": 8250695.88,
+   "SUBAVALIACAO": -6811809.1,
+   "DUPLICIDADE_CADASTRAL": 59975200.49,
+   "BAIXADO_MANTIDO": 56070250.89,
+   "CLASSIFICACAO_INCORRETA": 0.0
+  },
+  "quantidade_por_tipo": {
+   "SUPERAVALIACAO": 1000,
+   "SUBAVALIACAO": 1000,
+   "DUPLICIDADE_CADASTRAL": 1000,
+   "BAIXADO_MANTIDO": 1000,
+   "CLASSIFICACAO_INCORRETA": 1000
+  },
+  "efeito_total_rs": 117484338.16,
+  "saldo_referencia_sem_erros_rs": 29506134661.84,
+  "confere_ponte": true
+ },
+ "distorcao_conhecida_liquida_testes_rs": 117484338.18,
+ "MUS_vs_verdade": {
+  "superavaliacao_verdadeira_bruta_rs": 124296147.26,
+  "projecao_superavaliacao_desenho_original_rs": 307777859.74,
+  "erro_da_projecao_rs": 183481712.48,
+  "UML_desenho_original_rs": 704312623.78,
+  "UML_cobre_a_verdade": true,
+  "conhecida_mais_UML_residual_rs": 303186951.8,
+  "cobre_a_verdade": true
+ },
+ "amostra_MUS_itens_com_erro_verdadeiro": {
+  "sem erro": 380,
+  "BAIXADO_MANTIDO": 2,
+  "SUBAVALIACAO": 2,
+  "DUPLICIDADE_CADASTRAL": 1
+ },
+ "ampliacao_itens_com_erro_verdadeiro": {
+  "sem erro": 490,
+  "CLASSIFICACAO_INCORRETA": 2
+ },
+ "T4_omitidos_ids": [
+  "AFC-SIM-0156122",
+  "AFC-SIM-0215669",
+  "AFC-SIM-0241569",
+  "AFC-SIM-0353811"
+ ]
+}

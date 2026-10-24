@@ -1,0 +1,257 @@
+CNPJ_CIA;DT_REFER;VERSAO;DENOM_CIA;CD_CVM;GRUPO_DFP;MOEDA;ESCALA_MOEDA;ORDEM_EXERC;DT_FIM_EXERC;CD_CONTA;DS_CONTA;VL_CONTA;ST_CONTA_FIXA
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2;Passivo Total;77129194.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2;Passivo Total;81099930.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01;Passivo Circulante;17370535.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01;Passivo Circulante;17875964.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.01;Obrigações Sociais e Trabalhistas;221712.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.01;Obrigações Sociais e Trabalhistas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.01.01;Obrigações Sociais;70268.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.01.01;Obrigações Sociais;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.01.02;Obrigações Trabalhistas;151444.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.01.02;Obrigações Trabalhistas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.01.02.01;Obrigações estimadas com pessoal;151444.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.01.02.01;Obrigações estimadas com pessoal;0.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.02;Fornecedores;3890827.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.02;Fornecedores;4098399.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.02.01;Fornecedores Nacionais;3890827.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.02.01;Fornecedores Nacionais;4098399.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.02.02;Fornecedores Estrangeiros;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.02.02;Fornecedores Estrangeiros;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.03;Obrigações Fiscais;1225402.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.03;Obrigações Fiscais;1451975.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.03.01;Obrigações Fiscais Federais;1225402.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.03.01;Obrigações Fiscais Federais;1451975.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.03.01.01;Imposto de Renda e Contribuição Social a Pagar;440904.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.03.01.01;Imposto de Renda e Contribuição Social a Pagar;748215.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.03.01.02;Outros impostos, taxas e contribuições a recolher;784498.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.03.01.02;Outros impostos, taxas e contribuições a recolher;703760.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.03.02;Obrigações Fiscais Estaduais;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.03.02;Obrigações Fiscais Estaduais;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.03.03;Obrigações Fiscais Municipais;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.03.03;Obrigações Fiscais Municipais;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.03.03.01;Outros Municipais;0.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.03.03.01;Outros Municipais;0.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.04;Empréstimos e Financiamentos;5402972.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.04;Empréstimos e Financiamentos;4895705.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.04.01;Empréstimos e Financiamentos;4587739.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.04.01;Empréstimos e Financiamentos;3160115.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.04.01.01;Em Moeda Nacional;547215.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.04.01.01;Em Moeda Nacional;1222715.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.04.01.02;Em Moeda Estrangeira;4040524.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.04.01.02;Em Moeda Estrangeira;1937400.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.04.02;Debêntures;815233.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.04.02;Debêntures;1735590.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.04.03;Financiamento por Arrendamento;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.04.03;Financiamento por Arrendamento;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05;Outras Obrigações;6616923.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05;Outras Obrigações;7424732.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.01;Passivos com Partes Relacionadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.01;Passivos com Partes Relacionadas;19416.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.01.01;Débitos com Coligadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.01.01;Débitos com Coligadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.01.03;Débitos com Controladores;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.01.03;Débitos com Controladores;19416.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.01.04;Débitos com Outras Partes Relacionadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.01.04;Débitos com Outras Partes Relacionadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.02;Outros;6616923.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.02;Outros;7405316.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.02.01;Dividendos e JCP a Pagar;1510207.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.02.01;Dividendos e JCP a Pagar;1506041.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.02.02;Dividendo Mínimo Obrigatório a Pagar;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.02.02;Dividendo Mínimo Obrigatório a Pagar;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.02.03;Obrigações por Pagamentos Baseados em Ações;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.02.03;Obrigações por Pagamentos Baseados em Ações;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.02.04;Derivativos;8178.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.02.04;Derivativos;232540.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.02.05;Passivo financeiro setorial;927285.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.02.05;Passivo financeiro setorial;1077501.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.02.06;Uso do bem público;23253.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.02.06;Uso do bem público;0.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.02.07;Outras contas a pagar;2638554.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.02.07;Outras contas a pagar;3465230.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.02.08;Taxas regulamentares;100722.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.02.08;Taxas regulamentares;0.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.02.09;Entidade de previdência privada;336398.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.02.09;Entidade de previdência privada;105186.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.05.02.10;PIS/COFINS devolução consumidores;1072326.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.05.02.10;PIS/COFINS devolução consumidores;1018818.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.06;Provisões;12699.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.06;Provisões;5153.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.06.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.06.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.06.01.01;Provisões Fiscais;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.06.01.01;Provisões Fiscais;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.06.01.02;Provisões Previdenciárias e Trabalhistas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.06.01.02;Provisões Previdenciárias e Trabalhistas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.06.01.03;Provisões para Benefícios a Empregados;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.06.01.03;Provisões para Benefícios a Empregados;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.06.01.04;Provisões Cíveis;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.06.01.04;Provisões Cíveis;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.06.02;Outras Provisões;12699.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.06.02;Outras Provisões;5153.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.06.02.01;Provisões para Garantias;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.06.02.01;Provisões para Garantias;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.06.02.02;Provisões para Reestruturação;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.06.02.02;Provisões para Reestruturação;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.06.02.03;Provisões para Passivos Ambientais e de Desativação;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.06.02.03;Provisões para Passivos Ambientais e de Desativação;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.06.02.04;Provisão para Desmobilização e Gastos Ambientais;12699.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.06.02.04;Provisão para Desmobilização e Gastos Ambientais;5153.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.07;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.07;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.07.01;Passivos sobre Ativos Não-Correntes a Venda;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.07.01;Passivos sobre Ativos Não-Correntes a Venda;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.01.07.02;Passivos sobre Ativos de Operações Descontinuadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.01.07.02;Passivos sobre Ativos de Operações Descontinuadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02;Passivo Não Circulante;37963630.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02;Passivo Não Circulante;39719457.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.01;Empréstimos e Financiamentos;23385366.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.01;Empréstimos e Financiamentos;24160022.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.01.01;Empréstimos e Financiamentos;7690254.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.01.01;Empréstimos e Financiamentos;6417553.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.01.01.01;Em Moeda Nacional;5574227.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.01.01.01;Em Moeda Nacional;5609854.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.01.01.02;Em Moeda Estrangeira;2116027.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.01.01.02;Em Moeda Estrangeira;807699.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.01.02;Debêntures;15695112.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.01.02;Debêntures;17742469.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.01.03;Financiamento por Arrendamento;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.01.03;Financiamento por Arrendamento;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.01.03.01;Empréstimos e financiamentos;0.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.01.03.01;Empréstimos e financiamentos;0.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02;Outras Obrigações;10199204.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02;Outras Obrigações;10646632.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.01;Passivos com Partes Relacionadas;2485694.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.01;Passivos com Partes Relacionadas;4393234.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.01.01;Débitos com Coligadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.01.01;Débitos com Coligadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.01.03;Débitos com Controladores;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.01.03;Débitos com Controladores;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.01.04;Débitos com Outras Partes Relacionadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.01.04;Débitos com Outras Partes Relacionadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.02;Outros;7713510.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.02;Outros;6253398.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.02.01;Obrigações por Pagamentos Baseados em Ações;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.02.01;Obrigações por Pagamentos Baseados em Ações;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.02.02;Adiantamento para Futuro Aumento de Capital;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.02.02;Adiantamento para Futuro Aumento de Capital;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.02.03;Fornecedores;254364.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.02.03;Fornecedores;239699.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.02.04;Entidade de previdência privada;451514.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.02.04;Entidade de previdência privada;501738.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.02.05;Derivativos;272377.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.02.05;Derivativos;170854.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.02.06;Passivo financeiro setorial;798912.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.02.06;Passivo financeiro setorial;913146.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.02.07;Uso do bem público;175914.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.02.07;Uso do bem público;0.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.02.08;Outras contas a pagar;653079.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.02.08;Outras contas a pagar;833632.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.02.09;Outros Tributos e contribuições sociais a recolher;997778.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.02.09;Outros Tributos e contribuições sociais a recolher;956254.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.02.10;Imposto de renda e contribuição social a recolher;245142.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.02.10;Imposto de renda e contribuição social a recolher;254049.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.02.02.11;PIS/COFINS devolução consumidores;3864430.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.02.02.11;PIS/COFINS devolução consumidores;2384026.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.03;Tributos Diferidos;2665302.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.03;Tributos Diferidos;3001777.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.03.01;Imposto de Renda e Contribuição Social Diferidos;2665302.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.03.01;Imposto de Renda e Contribuição Social Diferidos;3001777.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.03.01.01;Imposto de Renda e Contribuição Social Diferidos;2622155.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.03.01.01;Imposto de Renda e Contribuição Social Diferidos;2957022.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.03.01.02;Outros tributos diferidos;43147.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.03.01.02;Outros tributos diferidos;44755.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.04;Provisões;1713758.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.04;Provisões;1911026.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.04.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;1561980.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.04.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;1740903.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.04.01.01;Provisões Fiscais;387442.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.04.01.01;Provisões Fiscais;390034.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.04.01.02;Provisões Previdenciárias e Trabalhistas;632533.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.04.01.02;Provisões Previdenciárias e Trabalhistas;761139.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.04.01.03;Provisões para Benefícios a Empregados;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.04.01.03;Provisões para Benefícios a Empregados;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.04.01.04;Provisões Cíveis;347977.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.04.01.04;Provisões Cíveis;446178.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.04.01.05;Provisões para outros riscos;194028.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.04.01.05;Provisões para outros riscos;143552.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.04.02;Outras Provisões;151778.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.04.02;Outras Provisões;170123.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.04.02.01;Provisões para Garantias;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.04.02.01;Provisões para Garantias;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.04.02.02;Provisões para Reestruturação;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.04.02.02;Provisões para Reestruturação;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.04.02.03;Provisões para Passivos Ambientais e de Desativação;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.04.02.03;Provisões para Passivos Ambientais e de Desativação;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.04.02.04;Provisão para desmobilização e gastos ambientais;151778.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.04.02.04;Provisão para desmobilização e gastos ambientais;170123.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.05;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.05;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.05.01;Passivos sobre Ativos Não-Correntes a Venda;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.05.01;Passivos sobre Ativos Não-Correntes a Venda;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.05.02;Passivos sobre Ativos de Operações Descontinuadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.05.02;Passivos sobre Ativos de Operações Descontinuadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.06;Lucros e Receitas a Apropriar;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.06;Lucros e Receitas a Apropriar;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.06.01;Lucros a Apropriar;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.06.01;Lucros a Apropriar;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.06.02;Receitas a Apropriar;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.06.02;Receitas a Apropriar;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.02.06.03;Subvenções de Investimento a Apropriar;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.02.06.03;Subvenções de Investimento a Apropriar;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03;Patrimônio Líquido Consolidado;21795029.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03;Patrimônio Líquido Consolidado;23504509.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.01;Capital Social Realizado;9388071.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.01;Capital Social Realizado;9388071.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.02;Reservas de Capital;-1394956.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.02;Reservas de Capital;-1394956.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.02.01;Ágio na Emissão de Ações;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.02.01;Ágio na Emissão de Ações;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.02.02;Reserva Especial de Ágio na Incorporação;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.02.02;Reserva Especial de Ágio na Incorporação;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.02.03;Alienação de Bônus de Subscrição;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.02.03;Alienação de Bônus de Subscrição;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.02.04;Opções Outorgadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.02.04;Opções Outorgadas;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.02.05;Ações em Tesouraria;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.02.05;Ações em Tesouraria;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.02.06;Adiantamento para Futuro Aumento de Capital;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.02.06;Adiantamento para Futuro Aumento de Capital;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.03;Reservas de Reavaliação;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.03;Reservas de Reavaliação;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.04;Reservas de Lucros;13841010.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.04;Reservas de Lucros;16139278.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.04.01;Reserva Legal;1877614.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.04.01;Reserva Legal;1877614.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.04.02;Reserva Estatutária;7033014.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.04.02;Reserva Estatutária;7510454.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.04.03;Reserva para Contingências;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.04.03;Reserva para Contingências;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.04.04;Reserva de Lucros a Realizar;3075192.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.04.04;Reserva de Lucros a Realizar;3822612.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.04.05;Reserva de Retenção de Lucros;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.04.05;Reserva de Retenção de Lucros;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.04.06;Reserva Especial para Dividendos Não Distribuídos;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.04.06;Reserva Especial para Dividendos Não Distribuídos;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.04.07;Reserva de Incentivos Fiscais;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.04.07;Reserva de Incentivos Fiscais;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.04.08;Dividendo Adicional Proposto;1855190.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.04.08;Dividendo Adicional Proposto;2928598.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.04.09;Ações em Tesouraria;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.04.09;Ações em Tesouraria;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.04.10;Reserva de Retenção de lucros para Investimento;0.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.04.10;Reserva de Retenção de lucros para Investimento;0.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.05;Lucros/Prejuízos Acumulados;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.05;Lucros/Prejuízos Acumulados;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.06;Ajustes de Avaliação Patrimonial;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.06;Ajustes de Avaliação Patrimonial;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.06.01;Reserva de avaliação patrimonial;0.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.06.01;Reserva de avaliação patrimonial;0.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.07;Ajustes Acumulados de Conversão;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.07;Ajustes Acumulados de Conversão;0.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.08;Outros Resultados Abrangentes;-1102363.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.08;Outros Resultados Abrangentes;-1642619.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.08.01;Resultado Abrangente Acumulado;-1102363.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.08.01;Resultado Abrangente Acumulado;-1642619.0000000000;N
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;PENÚLTIMO;2024-12-31;2.03.09;Participação dos Acionistas Não Controladores;1063267.0000000000;S
+02.429.144/0001-93;2025-12-31;1;CPFL ENERGIA S.A.;018660;DF Consolidado - Balanço Patrimonial Passivo;REAL;MIL;ÚLTIMO;2025-12-31;2.03.09;Participação dos Acionistas Não Controladores;1014735.0000000000;S

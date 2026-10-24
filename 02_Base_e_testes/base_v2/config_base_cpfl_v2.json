@@ -1,0 +1,37 @@
+{
+  "versao": "2.0",
+  "semente": 231020069,
+  "linhas_referencia": 500000,
+  "data_base": "2025-12-31",
+  "unidade_saida": "reais (R$), 2 casas decimais; DF em R$ mil",
+  "saldos_publicados_rs_mil": {
+    "CPFL Paulista": {"saldo": 12617237, "fonte": "DFs Anuais Completas CPFL Paulista 2025, nota 11, p. impressa 29 (fisica 39)"},
+    "RGE": {"saldo": 12734234, "fonte": "DFs Anuais Completas RGE 2025, nota 11, p. impressa 31 (fisica 41)"},
+    "CPFL Piratininga": {"saldo": 3836600, "fonte": "DFs Anuais Completas CPFL Piratininga 2025, nota 11, p. impressa 29"},
+    "CPFL Santa Cruz": {"saldo": 435548, "fonte": "Derivado por diferenca: consolidado DF25 (p. 34 e nota 11 p. 68) menos as tres distribuidoras acima; sem DF propria no Drive"}
+  },
+  "saldo_consolidado_rs_mil": {"saldo": 29623619, "fonte": "DF25 CPFL Energia, BP p. fisica 34 (impressa 2) e nota 11 p. fisica 68 (impressa 36)"},
+  "categorias": {
+    "Redes de distribuicao": {"peso": 0.27, "vnr_base_unitario_rs": 52000, "vida_util_anos": 30},
+    "Transformadores":       {"peso": 0.14, "vnr_base_unitario_rs": 98000, "vida_util_anos": 24},
+    "Postes e estruturas":   {"peso": 0.32, "vnr_base_unitario_rs": 19000, "vida_util_anos": 36},
+    "Medidores":             {"peso": 0.24, "vnr_base_unitario_rs": 5800,  "vida_util_anos": 15},
+    "Subestacoes":           {"peso": 0.03, "vnr_base_unitario_rs": 1250000, "vida_util_anos": 42}
+  },
+  "dispersao_vnr_unitario": [0.35, 1.75],
+  "fator_atualizacao_intervalo": [1.00, 1.30],
+  "ano_minimo_incorporacao": 1985,
+  "erros": {
+    "por_tipo": 1000,
+    "tipos": ["SUPERAVALIACAO", "SUBAVALIACAO", "DUPLICIDADE_CADASTRAL", "BAIXADO_MANTIDO", "CLASSIFICACAO_INCORRETA"],
+    "intervalo_super_sub": [0.06, 0.18]
+  },
+  "saidas": {
+    "base_registrada": "saida/CPFL_SINTETICA_Base_AFC_2025_registrada.csv.gz",
+    "resumo_execucao": "saida/CPFL_SINTETICA_resumo_execucao.json",
+    "reservado_dir": "RESERVADO_NAO_ABRIR_ATE_CONGELAMENTO",
+    "referencia": "CPFL_SINTETICA_Base_referencia_sem_erros.csv.gz",
+    "registro_erros": "CPFL_SINTETICA_Registro_erros_inseridos.csv",
+    "ponte_erros": "CPFL_SINTETICA_Ponte_efeito_erros.json"
+  }
+}
